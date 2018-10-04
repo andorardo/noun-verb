@@ -9,43 +9,6 @@ The annotations is done through crowdsourcing as described in [1]. Note that som
 
 The dataset is splitted into Train/Dev/Test sections. For Dev and Test sections the annotations included either VERB or NON-VERB in XPOS, UPOS  and FEATS columns. For the Train section, XPOS and UPOS columns are replaced with fine POS tag obtained by running automatic tagger and select the top tag that matched the crowdcompute label.
 
-## Examples
-
-Example from the Dev and Test splits:
-
-# http://www.wikihow.com/Replace-Broken-Glass-in-a-Picture-Frame
-1	Once	_	_	_	_	-1	_	_	_
-2	you	_	_	_	_	-1	_	_	_
-3	have	_	_	_	_	-1	_	_	_
-4	the	_	_	_	_	-1	_	_	_
-5	new	_	_	_	_	-1	_	_	_
-6	glass	_	_	_	_	-1	_	_	_
-7	,	_	_	_	_	-1	_	_	_
-8	cleaning	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-9	and	_	_	_	_	-1	_	_	_
-10	replacing	_	_	_	_	-1	_	_	_
-11	it	_	_	_	_	-1	_	_	_
-12	is	_	_	_	_	-1	_	_	_
-13	all	_	_	_	_	-1	_	_	_
-14	that	_	_	_	_	-1	_	_	_
-15	's	_	_	_	_	-1	_	_	_
-16	left	_	_	_	_	-1	_	_	_
-17	.	_	_	_	_	-1	_	_	_
-
-Example from the Train split
-
-# http://www.wikihow.com/Make-an-Audio-CD-With-Windows-7
-1	Try	_	_	_	_	-1	_	_	_
-2	to	_	_	_	_	-1	_	_	_
-3	copy	_	VB	VB	POS=VERB|fPOS=VERB	-1	_	_	_
-4	and	_	_	_	_	-1	_	_	_
-5	paste	_	_	_	_	-1	_	_	_
-6	the	_	_	_	_	-1	_	_	_
-7	file	_	_	_	_	-1	_	_	_
-8	instead	_	_	_	_	-1	_	_	_
-9	.	_	_
-
-
 ## Evaluation
 To evaluate a tagger output against the gold labels, we include a modified version from universal dependency eval script that can skip unlabeled tokens in the sentence and convert XPOS to either VERB or NON-VERB. Example usage:
 
