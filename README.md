@@ -3,13 +3,12 @@ This dataset contains over 30,000 naturally-occurring English sentences that inc
 
 ## Description
 
-The dataset contains sentences in CoNLL format. Each sentence has single token annotated as either VERB or NON-VERB. The data sources are Wikipedia, Wikihow and Search Ads. Before each sentence there is a comment line with the source of the sentence. In case of Wikipedia and Wikihow, the url of the source page for the sentence is included.
+The dataset contains sentences in CoNLL format. Each sentence has a single token that has been manually annotated as either VERB or NON-VERB. The data sources are Wikipedia, Wikihow and advertisements. Before each sentence there is a comment line with the source of the sentence. In case of Wikipedia and Wikihow, the url of the source page for the sentence is included.
 
-The annotations is done through crowdsourcing as described in the paper in the citation section. Note that some of the examples are filtered from the dataset used in the paper. The results for all the used models in the paper is recomputed for the filtered dataset the New Results section.
 
-The dataset is splitted into Train/Dev/Test sections. For Dev and Test sections the annotations included either VERB or NON-VERB in XPOS, UPOS  and FEATS columns. For the Train section, XPOS and UPOS columns are replaced with fine POS tag obtained by running automatic tagger and select the top tag that matched the crowdcompute label.
+The dataset is split into Train/Dev/Test sections. For Dev and Test sections the annotations included either VERB or NON-VERB in XPOS, UPOS  and FEATS columns. For the Train section, XPOS and UPOS columns are replaced with a (predicted) fine POS tag obtained by running automatic tagger and selecting the top tag that matched the gold coarse-grained VERB/NON-VERB label.
 
-Example of a training sentence is shown below:
+An example of a training sentence is shown below:
 
 ```
 # https://www.wikihow.com/Not-Get-Bored-on-a-Long-Car-Ride
