@@ -9,7 +9,7 @@ The annotations is done through crowdsourcing as described in the paper in the c
 
 The dataset is splitted into Train/Dev/Test sections. For Dev and Test sections the annotations included either VERB or NON-VERB in XPOS, UPOS  and FEATS columns. For the Train section, XPOS and UPOS columns are replaced with fine POS tag obtained by running automatic tagger and select the top tag that matched the crowdcompute label.
 
-Example of a training sentence is shown below
+Example of a training sentence is shown below:
 
 ```
 # https://www.wikihow.com/Not-Get-Bored-on-a-Long-Car-Ride
