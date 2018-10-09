@@ -25,6 +25,14 @@ An example of a training sentence is shown below:
 11	.	_	_	_	_	-1	_	_	_  
 
 ```
+The number of examples per genra is shown below:
+
+Genra      | Train | Dev | Test|
+:---------:|-------|-----|-----|
+Wikipedia  |8934   |1117 |2739 |
+Wikihow    |5978   |884  |2259 |
+Search Ads |8546   |366  |909  |
+**Total**      |**23458**  |**2367** |**5907** |
 
 ## Evaluation
 To evaluate a tagger output against the gold labels, we include a modified version from universal dependency eval script that can skip unlabeled tokens in the sentence and convert XPOS to either VERB or NON-VERB. Example usage:
