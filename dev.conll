@@ -760,6 +760,24 @@
 15	working	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Get-a-Guy-to-Want-to-Go-Out-with-You
+1	You	_	_	_	_	-1	_	_	_
+2	do	_	_	_	_	-1	_	_	_
+3	n't	_	_	_	_	-1	_	_	_
+4	have	_	_	_	_	-1	_	_	_
+5	to	_	_	_	_	-1	_	_	_
+6	play	_	_	_	_	-1	_	_	_
+7	extreme	_	_	_	_	-1	_	_	_
+8	sports	_	_	_	_	-1	_	_	_
+9	or	_	_	_	_	-1	_	_	_
+10	cheat	_	_	_	_	-1	_	_	_
+11	death	_	_	_	_	-1	_	_	_
+12	to	_	_	_	_	-1	_	_	_
+13	get	_	_	_	_	-1	_	_	_
+14	adrenaline	_	_	_	_	-1	_	_	_
+15	working	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+16	.	_	_	_	_	-1	_	_	_
+
 # http://www.wikihow.com/Make-a-Red-Wine-Sauce-for-Pasta
 1	This	_	_	_	_	-1	_	_	_
 2	means	_	_	_	_	-1	_	_	_
@@ -862,7 +880,7 @@
 14	site	_	_	_	_	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
 
-# To <b><i>test</i></b> color vision, von Frisch first trained his honey bees to feed from a small dish filled with a nectar-like sugar water.
+# http://en.wikipedia.org/wiki/User:Isanhu
 1	To	_	_	_	_	-1	_	_	_
 2	test	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 3	color	_	_	_	_	-1	_	_	_
@@ -1646,7 +1664,7 @@
 25	poisoning	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 26	.	_	_	_	_	-1	_	_	_
 
-# <b><i>Building</i></b> 1800 is occupied by major European and Indian pharmaceutical companies.
+# Search Ads Example
 1	Building	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	1800	_	_	_	_	-1	_	_	_
 3	is	_	_	_	_	-1	_	_	_
@@ -1733,7 +1751,7 @@
 10	cast	_	_	_	_	-1	_	_	_
 11	?	_	_	_	_	-1	_	_	_
 
-# <b><i>Bill</i></b> they need him on the set and has to blow dry his hair, resulting in Mr.
+# http://en.wikipedia.org/wiki/Mr._Bill
 1	Bill	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	they	_	_	_	_	-1	_	_	_
 3	need	_	_	_	_	-1	_	_	_
@@ -3438,7 +3456,32 @@
 22	river	_	_	_	_	-1	_	_	_
 23	.	_	_	_	_	-1	_	_	_
 
-# ``This is not what you want <b><i>boxing</i></b> to be.''
+# http://en.wikipedia.org/wiki/The_Host_(2006_film)
+1	As	_	_	_	_	-1	_	_	_
+2	he	_	_	_	_	-1	_	_	_
+3	realizes	_	_	_	_	-1	_	_	_
+4	he	_	_	_	_	-1	_	_	_
+5	grabbed	_	_	_	_	-1	_	_	_
+6	on	_	_	_	_	-1	_	_	_
+7	the	_	_	_	_	-1	_	_	_
+8	wrong	_	_	_	_	-1	_	_	_
+9	girl	_	_	_	_	-1	_	_	_
+10	,	_	_	_	_	-1	_	_	_
+11	he	_	_	_	_	-1	_	_	_
+12	sees	_	_	_	_	-1	_	_	_
+13	the	_	_	_	_	-1	_	_	_
+14	creature	_	_	_	_	-1	_	_	_
+15	snatching	_	_	_	_	-1	_	_	_
+16	Hyun-seo	_	_	_	_	-1	_	_	_
+17	and	_	_	_	_	-1	_	_	_
+18	diving	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+19	back	_	_	_	_	-1	_	_	_
+20	into	_	_	_	_	-1	_	_	_
+21	the	_	_	_	_	-1	_	_	_
+22	river	_	_	_	_	-1	_	_	_
+23	.	_	_	_	_	-1	_	_	_
+
+# https://en.wikipedia.org/wiki/Oscar_De_La_Hoya_vs._Shane_Mosley_II
 1	``	_	_	_	_	-1	_	_	_
 2	This	_	_	_	_	-1	_	_	_
 3	is	_	_	_	_	-1	_	_	_
@@ -3568,7 +3611,7 @@
 23	sections	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
 
-# On both sides, standard-bearers are also occasionally available and add to the command <b><i>points</i></b> on a given flank.
+# https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Third_Age_(Game_Boy_Advance)
 1	On	_	_	_	_	-1	_	_	_
 2	both	_	_	_	_	-1	_	_	_
 3	sides	_	_	_	_	-1	_	_	_
@@ -4370,6 +4413,38 @@
 13	in	_	_	_	_	-1	_	_	_
 14	China	_	_	_	_	-1	_	_	_
 15	?	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/42nd_Infantry_Regiment_(France)
+1	Click	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	(	_	_	_	_	-1	_	_	_
+3	show	_	_	_	_	-1	_	_	_
+4	)	_	_	_	_	-1	_	_	_
+5	on	_	_	_	_	-1	_	_	_
+6	the	_	_	_	_	-1	_	_	_
+7	right	_	_	_	_	-1	_	_	_
+8	to	_	_	_	_	-1	_	_	_
+9	read	_	_	_	_	-1	_	_	_
+10	important	_	_	_	_	-1	_	_	_
+11	instructions	_	_	_	_	-1	_	_	_
+12	before	_	_	_	_	-1	_	_	_
+13	translating	_	_	_	_	-1	_	_	_
+14	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/42nd_Infantry_Regiment_(France)
+1	Click	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	(	_	_	_	_	-1	_	_	_
+3	show	_	_	_	_	-1	_	_	_
+4	)	_	_	_	_	-1	_	_	_
+5	on	_	_	_	_	-1	_	_	_
+6	the	_	_	_	_	-1	_	_	_
+7	right	_	_	_	_	-1	_	_	_
+8	to	_	_	_	_	-1	_	_	_
+9	read	_	_	_	_	-1	_	_	_
+10	important	_	_	_	_	-1	_	_	_
+11	instructions	_	_	_	_	-1	_	_	_
+12	before	_	_	_	_	-1	_	_	_
+13	translating	_	_	_	_	-1	_	_	_
+14	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/42nd_Infantry_Regiment_(France)
 1	Click	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -5272,7 +5347,23 @@
 9	race	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 10	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/2009%E2%80%9310_Milton_Keynes_Dons_F.C._season
+# http://en.wikipedia.org/wiki/Hilbert_transform
+1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+2	:	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Hilbert_transform
+1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+2	:	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Hilbert_transform
+1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+2	:	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Hilbert_transform
+1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+2	:	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Hilbert_transform
 1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	:	_	_	_	_	-1	_	_	_
 
@@ -5761,7 +5852,7 @@
 10	lists	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 11	:	_	_	_	_	-1	_	_	_
 
-# The building was dedicated in 1877 and the project <b><i>cost</i></b> $35,000 to complete.
+# http://en.wikipedia.org/?title=Purdue_University
 1	The	_	_	_	_	-1	_	_	_
 2	building	_	_	_	_	-1	_	_	_
 3	was	_	_	_	_	-1	_	_	_
@@ -5931,7 +6022,7 @@
 17	season	_	_	_	_	-1	_	_	_
 18	.	_	_	_	_	-1	_	_	_
 
-# The group eventually abandon Atlanta and <b><i>head</i></b> towards Fort Bennning.
+# https://en.wikipedia.org/wiki/Glenn_Rhee
 1	The	_	_	_	_	-1	_	_	_
 2	group	_	_	_	_	-1	_	_	_
 3	eventually	_	_	_	_	-1	_	_	_
@@ -6445,7 +6536,40 @@
 30	)	_	_	_	_	-1	_	_	_
 31	.	_	_	_	_	-1	_	_	_
 
-# After Michel leaves, Adam laughs and <b><i>leaves</i></b> as well.
+# http://en.wikipedia.org/wiki/Cannabis_in_New_York
+1	Offenses	_	_	_	_	-1	_	_	_
+2	related	_	_	_	_	-1	_	_	_
+3	to	_	_	_	_	-1	_	_	_
+4	the	_	_	_	_	-1	_	_	_
+5	sale	_	_	_	_	-1	_	_	_
+6	of	_	_	_	_	-1	_	_	_
+7	marijuana	_	_	_	_	-1	_	_	_
+8	start	_	_	_	_	-1	_	_	_
+9	with	_	_	_	_	-1	_	_	_
+10	fifth-degree	_	_	_	_	-1	_	_	_
+11	criminal	_	_	_	_	-1	_	_	_
+12	sale	_	_	_	_	-1	_	_	_
+13	of	_	_	_	_	-1	_	_	_
+14	marijuana	_	_	_	_	-1	_	_	_
+15	,	_	_	_	_	-1	_	_	_
+16	a	_	_	_	_	-1	_	_	_
+17	class	_	_	_	_	-1	_	_	_
+18	B	_	_	_	_	-1	_	_	_
+19	misdemeanor	_	_	_	_	-1	_	_	_
+20	that	_	_	_	_	-1	_	_	_
+21	covers	_	_	_	_	-1	_	_	_
+22	amounts	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+23	less	_	_	_	_	-1	_	_	_
+24	than	_	_	_	_	-1	_	_	_
+25	2	_	_	_	_	-1	_	_	_
+26	grams	_	_	_	_	-1	_	_	_
+27	(	_	_	_	_	-1	_	_	_
+28	0.071	_	_	_	_	-1	_	_	_
+29	oz	_	_	_	_	-1	_	_	_
+30	)	_	_	_	_	-1	_	_	_
+31	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org.mevn.net/wiki/Burnt_(film)
 1	After	_	_	_	_	-1	_	_	_
 2	Michel	_	_	_	_	-1	_	_	_
 3	leaves	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -6859,7 +6983,7 @@
 27	gift	_	_	_	_	-1	_	_	_
 28	.	_	_	_	_	-1	_	_	_
 
-# However, FP can be used in addition to the ABC <b><i>score</i></b> instead of as a replacement.
+# http://en.wikipedia.org/wiki/Pottery
 1	However	_	_	_	_	-1	_	_	_
 2	,	_	_	_	_	-1	_	_	_
 3	FP	_	_	_	_	-1	_	_	_
@@ -7079,7 +7203,7 @@
 14	rinsing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
 
-# British Parliamentary Election <b><i>Results</i></b> 1918-1949, FWS Craig (1983).
+# Search Ads Example
 1	British	_	_	_	_	-1	_	_	_
 2	Parliamentary	_	_	_	_	-1	_	_	_
 3	Election	_	_	_	_	-1	_	_	_
@@ -8137,6 +8261,32 @@
 23	human	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
 
+# http://en.wikipedia.org/wiki/List_of_superhuman_features_and_abilities_in_fiction
+1	The	_	_	_	_	-1	_	_	_
+2	ability	_	_	_	_	-1	_	_	_
+3	to	_	_	_	_	-1	_	_	_
+4	move	_	_	_	_	-1	_	_	_
+5	,	_	_	_	_	-1	_	_	_
+6	run	_	_	_	_	-1	_	_	_
+7	,	_	_	_	_	-1	_	_	_
+8	fly	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+9	,	_	_	_	_	-1	_	_	_
+10	react	_	_	_	_	-1	_	_	_
+11	,	_	_	_	_	-1	_	_	_
+12	think	_	_	_	_	-1	_	_	_
+13	,	_	_	_	_	-1	_	_	_
+14	and	_	_	_	_	-1	_	_	_
+15	sense	_	_	_	_	-1	_	_	_
+16	at	_	_	_	_	-1	_	_	_
+17	speeds	_	_	_	_	-1	_	_	_
+18	much	_	_	_	_	-1	_	_	_
+19	faster	_	_	_	_	-1	_	_	_
+20	than	_	_	_	_	-1	_	_	_
+21	a	_	_	_	_	-1	_	_	_
+22	normal	_	_	_	_	-1	_	_	_
+23	human	_	_	_	_	-1	_	_	_
+24	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Fire_discipline
 1	The	_	_	_	_	-1	_	_	_
 2	FDC	_	_	_	_	-1	_	_	_
@@ -8832,6 +8982,19 @@
 27	and	_	_	_	_	-1	_	_	_
 28	software	_	_	_	_	-1	_	_	_
 29	.	_	_	_	_	-1	_	_	_
+
+# http://www.wikihow.com/Make-a-Clown-Cake
+1	On	_	_	_	_	-1	_	_	_
+2	How	_	_	_	_	-1	_	_	_
+3	to	_	_	_	_	-1	_	_	_
+4	Watch	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+5	ESPN	_	_	_	_	-1	_	_	_
+6	Online	_	_	_	_	-1	_	_	_
+7	,	_	_	_	_	-1	_	_	_
+8	a	_	_	_	_	-1	_	_	_
+9	reader	_	_	_	_	-1	_	_	_
+10	asks	_	_	_	_	-1	_	_	_
+11	:	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Make-a-Clown-Cake
 1	On	_	_	_	_	-1	_	_	_
@@ -10516,6 +10679,29 @@
 20	mind	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Beatbox
+1	The	_	_	_	_	-1	_	_	_
+2	key	_	_	_	_	-1	_	_	_
+3	to	_	_	_	_	-1	_	_	_
+4	humming	_	_	_	_	-1	_	_	_
+5	and	_	_	_	_	-1	_	_	_
+6	beatboxing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+7	at	_	_	_	_	-1	_	_	_
+8	the	_	_	_	_	-1	_	_	_
+9	same	_	_	_	_	-1	_	_	_
+10	time	_	_	_	_	-1	_	_	_
+11	is	_	_	_	_	-1	_	_	_
+12	to	_	_	_	_	-1	_	_	_
+13	start	_	_	_	_	-1	_	_	_
+14	with	_	_	_	_	-1	_	_	_
+15	a	_	_	_	_	-1	_	_	_
+16	baseline	_	_	_	_	-1	_	_	_
+17	or	_	_	_	_	-1	_	_	_
+18	melody	_	_	_	_	-1	_	_	_
+19	in	_	_	_	_	-1	_	_	_
+20	mind	_	_	_	_	-1	_	_	_
+21	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Smith_Mountain_Dam
 1	Concrete	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	pouring	_	_	_	_	-1	_	_	_
@@ -10973,6 +11159,36 @@
 27	days	_	_	_	_	-1	_	_	_
 28	.	_	_	_	_	-1	_	_	_
 
+# http://en.wikipedia.org/wiki/NWA_Texas_Heavyweight_Championship
+1	The	_	_	_	_	-1	_	_	_
+2	date	_	_	_	_	-1	_	_	_
+3	of	_	_	_	_	-1	_	_	_
+4	at	_	_	_	_	-1	_	_	_
+5	least	_	_	_	_	-1	_	_	_
+6	one	_	_	_	_	-1	_	_	_
+7	of	_	_	_	_	-1	_	_	_
+8	the	_	_	_	_	-1	_	_	_
+9	title	_	_	_	_	-1	_	_	_
+10	changes	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+11	in	_	_	_	_	-1	_	_	_
+12	this	_	_	_	_	-1	_	_	_
+13	reign	_	_	_	_	-1	_	_	_
+14	is	_	_	_	_	-1	_	_	_
+15	uncertain	_	_	_	_	-1	_	_	_
+16	,	_	_	_	_	-1	_	_	_
+17	which	_	_	_	_	-1	_	_	_
+18	means	_	_	_	_	-1	_	_	_
+19	that	_	_	_	_	-1	_	_	_
+20	the	_	_	_	_	-1	_	_	_
+21	reign	_	_	_	_	-1	_	_	_
+22	lasted	_	_	_	_	-1	_	_	_
+23	between	_	_	_	_	-1	_	_	_
+24	1	_	_	_	_	-1	_	_	_
+25	and	_	_	_	_	-1	_	_	_
+26	41	_	_	_	_	-1	_	_	_
+27	days	_	_	_	_	-1	_	_	_
+28	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Taxi_Sense
 1	His	_	_	_	_	-1	_	_	_
 2	distraction	_	_	_	_	-1	_	_	_
@@ -11019,7 +11235,7 @@
 5	here	_	_	_	_	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
 
-# For that particular weekend, the film fell to 8th place <b><i>screening</i></b> in 837 theaters.
+# http://en.wikipedia.org/wiki/Thunderheart
 1	For	_	_	_	_	-1	_	_	_
 2	that	_	_	_	_	-1	_	_	_
 3	particular	_	_	_	_	-1	_	_	_
@@ -11202,22 +11418,6 @@
 7	seem	_	_	_	_	-1	_	_	_
 8	shorter	_	_	_	_	-1	_	_	_
 9	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/42nd_Infantry_Regiment_(France)
-1	Click	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	(	_	_	_	_	-1	_	_	_
-3	show	_	_	_	_	-1	_	_	_
-4	)	_	_	_	_	-1	_	_	_
-5	on	_	_	_	_	-1	_	_	_
-6	the	_	_	_	_	-1	_	_	_
-7	right	_	_	_	_	-1	_	_	_
-8	to	_	_	_	_	-1	_	_	_
-9	read	_	_	_	_	-1	_	_	_
-10	important	_	_	_	_	-1	_	_	_
-11	instructions	_	_	_	_	-1	_	_	_
-12	before	_	_	_	_	-1	_	_	_
-13	translating	_	_	_	_	-1	_	_	_
-14	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Write-a-Project-Management-Report
 1	Label	_	_	_	_	-1	_	_	_
@@ -11524,7 +11724,7 @@
 13	unsatisfactory	_	_	_	_	-1	_	_	_
 14	.	_	_	_	_	-1	_	_	_
 
-# ``18 wheeler'' and ``eighteen wheeler'' <b><i>redirect</i></b> here.
+# Search Ads Example
 1	``	_	_	_	_	-1	_	_	_
 2	18	_	_	_	_	-1	_	_	_
 3	wheeler	_	_	_	_	-1	_	_	_
@@ -11659,7 +11859,7 @@
 5	1969	_	_	_	_	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
 
-# The name ``incremental'' comes from ``<b><i>reading</i></b> in portions''.
+# http://en.wikipedia.org/wiki/Incremental_reading
 1	The	_	_	_	_	-1	_	_	_
 2	name	_	_	_	_	-1	_	_	_
 3	``	_	_	_	_	-1	_	_	_
@@ -11939,32 +12139,6 @@
 11	al	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/List_of_superhuman_features_and_abilities_in_fiction
-1	The	_	_	_	_	-1	_	_	_
-2	ability	_	_	_	_	-1	_	_	_
-3	to	_	_	_	_	-1	_	_	_
-4	move	_	_	_	_	-1	_	_	_
-5	,	_	_	_	_	-1	_	_	_
-6	run	_	_	_	_	-1	_	_	_
-7	,	_	_	_	_	-1	_	_	_
-8	fly	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-9	,	_	_	_	_	-1	_	_	_
-10	react	_	_	_	_	-1	_	_	_
-11	,	_	_	_	_	-1	_	_	_
-12	think	_	_	_	_	-1	_	_	_
-13	,	_	_	_	_	-1	_	_	_
-14	and	_	_	_	_	-1	_	_	_
-15	sense	_	_	_	_	-1	_	_	_
-16	at	_	_	_	_	-1	_	_	_
-17	speeds	_	_	_	_	-1	_	_	_
-18	much	_	_	_	_	-1	_	_	_
-19	faster	_	_	_	_	-1	_	_	_
-20	than	_	_	_	_	-1	_	_	_
-21	a	_	_	_	_	-1	_	_	_
-22	normal	_	_	_	_	-1	_	_	_
-23	human	_	_	_	_	-1	_	_	_
-24	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Hire-a-Nanny-Who-Won%27t-Hit-On-Your-Spouse
 1	It	_	_	_	_	-1	_	_	_
 2	may	_	_	_	_	-1	_	_	_
@@ -11982,7 +12156,7 @@
 14	spouse	_	_	_	_	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
 
-# A hopelessly nostalgic physics student <b><i>fights</i></b> to prove her sanity when no one on Earth can remember her favorite 90's cartoon show.
+# http://en.wikipedia.org/wiki/Dimension_404
 1	A	_	_	_	_	-1	_	_	_
 2	hopelessly	_	_	_	_	-1	_	_	_
 3	nostalgic	_	_	_	_	-1	_	_	_
@@ -12874,6 +13048,26 @@
 19	and	_	_	_	_	-1	_	_	_
 20	compactness	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Glossary_of_baseball_(W)
+1	A	_	_	_	_	-1	_	_	_
+2	pitcher	_	_	_	_	-1	_	_	_
+3	(	_	_	_	_	-1	_	_	_
+4	including	_	_	_	_	-1	_	_	_
+5	the	_	_	_	_	-1	_	_	_
+6	starter	_	_	_	_	-1	_	_	_
+7	)	_	_	_	_	-1	_	_	_
+8	need	_	_	_	_	-1	_	_	_
+9	face	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+10	only	_	_	_	_	-1	_	_	_
+11	one	_	_	_	_	-1	_	_	_
+12	batter	_	_	_	_	-1	_	_	_
+13	to	_	_	_	_	-1	_	_	_
+14	be	_	_	_	_	-1	_	_	_
+15	charged	_	_	_	_	-1	_	_	_
+16	with	_	_	_	_	-1	_	_	_
+17	an	_	_	_	_	-1	_	_	_
+18	L.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Glossary_of_baseball_(W)
 1	A	_	_	_	_	-1	_	_	_
@@ -13934,6 +14128,20 @@
 11	6:37	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
+# http://en.wikipedia.org/wiki/2017_Oklahoma_State_Cowboys_football_team
+1	Mason	_	_	_	_	-1	_	_	_
+2	Rudolph	_	_	_	_	-1	_	_	_
+3	10-yard	_	_	_	_	-1	_	_	_
+4	run	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+5	(	_	_	_	_	-1	_	_	_
+6	Matt	_	_	_	_	-1	_	_	_
+7	Ammendola	_	_	_	_	-1	_	_	_
+8	kick	_	_	_	_	-1	_	_	_
+9	)	_	_	_	_	-1	_	_	_
+10	,	_	_	_	_	-1	_	_	_
+11	7:44	_	_	_	_	-1	_	_	_
+12	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Surfer_Girl_(song)
 1	The	_	_	_	_	-1	_	_	_
 2	single	_	_	_	_	-1	_	_	_
@@ -13953,7 +14161,7 @@
 16	producer	_	_	_	_	-1	_	_	_
 17	.	_	_	_	_	-1	_	_	_
 
-# <b><i>Building</i></b> 2700 houses major American and Indian multi-national companies specializing in chemical solutions and formulations.
+# Search Ads Example
 1	Building	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	2700	_	_	_	_	-1	_	_	_
 3	houses	_	_	_	_	-1	_	_	_
@@ -13996,39 +14204,6 @@
 22	'	_	_	_	_	-1	_	_	_
 23	rent	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/Cannabis_in_New_York
-1	Offenses	_	_	_	_	-1	_	_	_
-2	related	_	_	_	_	-1	_	_	_
-3	to	_	_	_	_	-1	_	_	_
-4	the	_	_	_	_	-1	_	_	_
-5	sale	_	_	_	_	-1	_	_	_
-6	of	_	_	_	_	-1	_	_	_
-7	marijuana	_	_	_	_	-1	_	_	_
-8	start	_	_	_	_	-1	_	_	_
-9	with	_	_	_	_	-1	_	_	_
-10	fifth-degree	_	_	_	_	-1	_	_	_
-11	criminal	_	_	_	_	-1	_	_	_
-12	sale	_	_	_	_	-1	_	_	_
-13	of	_	_	_	_	-1	_	_	_
-14	marijuana	_	_	_	_	-1	_	_	_
-15	,	_	_	_	_	-1	_	_	_
-16	a	_	_	_	_	-1	_	_	_
-17	class	_	_	_	_	-1	_	_	_
-18	B	_	_	_	_	-1	_	_	_
-19	misdemeanor	_	_	_	_	-1	_	_	_
-20	that	_	_	_	_	-1	_	_	_
-21	covers	_	_	_	_	-1	_	_	_
-22	amounts	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-23	less	_	_	_	_	-1	_	_	_
-24	than	_	_	_	_	-1	_	_	_
-25	2	_	_	_	_	-1	_	_	_
-26	grams	_	_	_	_	-1	_	_	_
-27	(	_	_	_	_	-1	_	_	_
-28	0.071	_	_	_	_	-1	_	_	_
-29	oz	_	_	_	_	-1	_	_	_
-30	)	_	_	_	_	-1	_	_	_
-31	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/B-Reel
 1	B-Reel	_	_	_	_	-1	_	_	_
@@ -14341,6 +14516,31 @@
 22	with	_	_	_	_	-1	_	_	_
 23	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Distract-Yourself-from-Cutting
+1	Exercising	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	can	_	_	_	_	-1	_	_	_
+3	also	_	_	_	_	-1	_	_	_
+4	help	_	_	_	_	-1	_	_	_
+5	to	_	_	_	_	-1	_	_	_
+6	release	_	_	_	_	-1	_	_	_
+7	stress	_	_	_	_	-1	_	_	_
+8	,	_	_	_	_	-1	_	_	_
+9	anxiety	_	_	_	_	-1	_	_	_
+10	,	_	_	_	_	-1	_	_	_
+11	anger	_	_	_	_	-1	_	_	_
+12	,	_	_	_	_	-1	_	_	_
+13	and	_	_	_	_	-1	_	_	_
+14	other	_	_	_	_	-1	_	_	_
+15	emotions	_	_	_	_	-1	_	_	_
+16	you	_	_	_	_	-1	_	_	_
+17	usually	_	_	_	_	-1	_	_	_
+18	use	_	_	_	_	-1	_	_	_
+19	cutting	_	_	_	_	-1	_	_	_
+20	to	_	_	_	_	-1	_	_	_
+21	help	_	_	_	_	-1	_	_	_
+22	with	_	_	_	_	-1	_	_	_
+23	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/100_Jahre_%E2%80%93_Der_Countdown
 1	In	_	_	_	_	-1	_	_	_
 2	this	_	_	_	_	-1	_	_	_
@@ -14543,36 +14743,6 @@
 19	etc.	_	_	_	_	-1	_	_	_
 20	)	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/NWA_Texas_Heavyweight_Championship
-1	The	_	_	_	_	-1	_	_	_
-2	date	_	_	_	_	-1	_	_	_
-3	of	_	_	_	_	-1	_	_	_
-4	at	_	_	_	_	-1	_	_	_
-5	least	_	_	_	_	-1	_	_	_
-6	one	_	_	_	_	-1	_	_	_
-7	of	_	_	_	_	-1	_	_	_
-8	the	_	_	_	_	-1	_	_	_
-9	title	_	_	_	_	-1	_	_	_
-10	changes	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-11	in	_	_	_	_	-1	_	_	_
-12	this	_	_	_	_	-1	_	_	_
-13	reign	_	_	_	_	-1	_	_	_
-14	is	_	_	_	_	-1	_	_	_
-15	uncertain	_	_	_	_	-1	_	_	_
-16	,	_	_	_	_	-1	_	_	_
-17	which	_	_	_	_	-1	_	_	_
-18	means	_	_	_	_	-1	_	_	_
-19	that	_	_	_	_	-1	_	_	_
-20	the	_	_	_	_	-1	_	_	_
-21	reign	_	_	_	_	-1	_	_	_
-22	lasted	_	_	_	_	-1	_	_	_
-23	between	_	_	_	_	-1	_	_	_
-24	1	_	_	_	_	-1	_	_	_
-25	and	_	_	_	_	-1	_	_	_
-26	41	_	_	_	_	-1	_	_	_
-27	days	_	_	_	_	-1	_	_	_
-28	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/James_Michael
 1	Michael	_	_	_	_	-1	_	_	_
@@ -15001,7 +15171,7 @@
 9	.	_	_	_	_	-1	_	_	_
 10	''	_	_	_	_	-1	_	_	_
 
-# The FPU can be driven on its own, but is front-heavy in this mode and prone to <b><i>nose-diving</i></b> when the brakes are applied.
+# http://en.wikipedia.org/wiki/Logistics_Vehicle_System
 1	The	_	_	_	_	-1	_	_	_
 2	FPU	_	_	_	_	-1	_	_	_
 3	can	_	_	_	_	-1	_	_	_
@@ -15353,6 +15523,42 @@
 18	entropy	_	_	_	_	-1	_	_	_
 19	.	_	_	_	_	-1	_	_	_
 
+# http://en.wikipedia.org/wiki/Move-to-front_transform
+1	Wheeler	_	_	_	_	-1	_	_	_
+2	transform	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+3	,	_	_	_	_	-1	_	_	_
+4	and	_	_	_	_	-1	_	_	_
+5	then	_	_	_	_	-1	_	_	_
+6	the	_	_	_	_	-1	_	_	_
+7	MTF	_	_	_	_	-1	_	_	_
+8	transform	_	_	_	_	-1	_	_	_
+9	,	_	_	_	_	-1	_	_	_
+10	we	_	_	_	_	-1	_	_	_
+11	get	_	_	_	_	-1	_	_	_
+12	a	_	_	_	_	-1	_	_	_
+13	message	_	_	_	_	-1	_	_	_
+14	with	_	_	_	_	-1	_	_	_
+15	6187	_	_	_	_	-1	_	_	_
+16	bits	_	_	_	_	-1	_	_	_
+17	of	_	_	_	_	-1	_	_	_
+18	entropy	_	_	_	_	-1	_	_	_
+19	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Adaptive_replacement_cache
+1	Cache	_	_	_	_	-1	_	_	_
+2	hits	_	_	_	_	-1	_	_	_
+3	move	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+4	to	_	_	_	_	-1	_	_	_
+5	the	_	_	_	_	-1	_	_	_
+6	top	_	_	_	_	-1	_	_	_
+7	,	_	_	_	_	-1	_	_	_
+8	pushing	_	_	_	_	-1	_	_	_
+9	all	_	_	_	_	-1	_	_	_
+10	other	_	_	_	_	-1	_	_	_
+11	entries	_	_	_	_	-1	_	_	_
+12	down	_	_	_	_	-1	_	_	_
+13	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Adaptive_replacement_cache
 1	Cache	_	_	_	_	-1	_	_	_
 2	hits	_	_	_	_	-1	_	_	_
@@ -15701,30 +15907,35 @@
 27	vomiting	_	_	_	_	-1	_	_	_
 28	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/The_Host_(2006_film)
-1	As	_	_	_	_	-1	_	_	_
-2	he	_	_	_	_	-1	_	_	_
-3	realizes	_	_	_	_	-1	_	_	_
-4	he	_	_	_	_	-1	_	_	_
-5	grabbed	_	_	_	_	-1	_	_	_
-6	on	_	_	_	_	-1	_	_	_
-7	the	_	_	_	_	-1	_	_	_
-8	wrong	_	_	_	_	-1	_	_	_
-9	girl	_	_	_	_	-1	_	_	_
-10	,	_	_	_	_	-1	_	_	_
-11	he	_	_	_	_	-1	_	_	_
-12	sees	_	_	_	_	-1	_	_	_
-13	the	_	_	_	_	-1	_	_	_
-14	creature	_	_	_	_	-1	_	_	_
-15	snatching	_	_	_	_	-1	_	_	_
-16	Hyun-seo	_	_	_	_	-1	_	_	_
-17	and	_	_	_	_	-1	_	_	_
-18	diving	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-19	back	_	_	_	_	-1	_	_	_
-20	into	_	_	_	_	-1	_	_	_
-21	the	_	_	_	_	-1	_	_	_
-22	river	_	_	_	_	-1	_	_	_
-23	.	_	_	_	_	-1	_	_	_
+# http://en.wikipedia.org/wiki/Iris_wattii
+1	Like	_	_	_	_	-1	_	_	_
+2	many	_	_	_	_	-1	_	_	_
+3	other	_	_	_	_	-1	_	_	_
+4	irises	_	_	_	_	-1	_	_	_
+5	,	_	_	_	_	-1	_	_	_
+6	most	_	_	_	_	-1	_	_	_
+7	parts	_	_	_	_	-1	_	_	_
+8	of	_	_	_	_	-1	_	_	_
+9	the	_	_	_	_	-1	_	_	_
+10	plant	_	_	_	_	-1	_	_	_
+11	are	_	_	_	_	-1	_	_	_
+12	poisonous	_	_	_	_	-1	_	_	_
+13	(	_	_	_	_	-1	_	_	_
+14	rhizome	_	_	_	_	-1	_	_	_
+15	and	_	_	_	_	-1	_	_	_
+16	leaves	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+17	)	_	_	_	_	-1	_	_	_
+18	,	_	_	_	_	-1	_	_	_
+19	if	_	_	_	_	-1	_	_	_
+20	mistakenly	_	_	_	_	-1	_	_	_
+21	ingested	_	_	_	_	-1	_	_	_
+22	can	_	_	_	_	-1	_	_	_
+23	cause	_	_	_	_	-1	_	_	_
+24	stomach	_	_	_	_	-1	_	_	_
+25	pains	_	_	_	_	-1	_	_	_
+26	and	_	_	_	_	-1	_	_	_
+27	vomiting	_	_	_	_	-1	_	_	_
+28	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Grand_Fenwick
 1	The	_	_	_	_	-1	_	_	_
@@ -16627,7 +16838,7 @@
 10	accordingly	_	_	_	_	-1	_	_	_
 11	.	_	_	_	_	-1	_	_	_
 
-# ``A Criterion Method for <b><i>Measuring</i></b> Route Distance in Physically Active Commuting''.
+# https://en.wikipedia.org/wiki/Peter_Schantz
 1	``	_	_	_	_	-1	_	_	_
 2	A	_	_	_	_	-1	_	_	_
 3	Criterion	_	_	_	_	-1	_	_	_
@@ -16696,29 +16907,6 @@
 22	good	_	_	_	_	-1	_	_	_
 23	grade	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Beatbox
-1	The	_	_	_	_	-1	_	_	_
-2	key	_	_	_	_	-1	_	_	_
-3	to	_	_	_	_	-1	_	_	_
-4	humming	_	_	_	_	-1	_	_	_
-5	and	_	_	_	_	-1	_	_	_
-6	beatboxing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-7	at	_	_	_	_	-1	_	_	_
-8	the	_	_	_	_	-1	_	_	_
-9	same	_	_	_	_	-1	_	_	_
-10	time	_	_	_	_	-1	_	_	_
-11	is	_	_	_	_	-1	_	_	_
-12	to	_	_	_	_	-1	_	_	_
-13	start	_	_	_	_	-1	_	_	_
-14	with	_	_	_	_	-1	_	_	_
-15	a	_	_	_	_	-1	_	_	_
-16	baseline	_	_	_	_	-1	_	_	_
-17	or	_	_	_	_	-1	_	_	_
-18	melody	_	_	_	_	-1	_	_	_
-19	in	_	_	_	_	-1	_	_	_
-20	mind	_	_	_	_	-1	_	_	_
-21	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Use-a-Phone-if-You%27re-Blind-or-Visually-Impaired
 1	Try	_	_	_	_	-1	_	_	_
@@ -16967,7 +17155,7 @@
 20	glue	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
 
-# ``PACU'' <b><i>redirects</i></b> here.
+# Search Ads Example
 1	``	_	_	_	_	-1	_	_	_
 2	PACU	_	_	_	_	-1	_	_	_
 3	''	_	_	_	_	-1	_	_	_
@@ -17235,6 +17423,36 @@
 12	available	_	_	_	_	-1	_	_	_
 13	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Make-Spaghetti-Casserole
+1	Your	_	_	_	_	-1	_	_	_
+2	browser	_	_	_	_	-1	_	_	_
+3	does	_	_	_	_	-1	_	_	_
+4	not	_	_	_	_	-1	_	_	_
+5	currently	_	_	_	_	-1	_	_	_
+6	recognize	_	_	_	_	-1	_	_	_
+7	any	_	_	_	_	-1	_	_	_
+8	of	_	_	_	_	-1	_	_	_
+9	the	_	_	_	_	-1	_	_	_
+10	video	_	_	_	_	-1	_	_	_
+11	formats	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+12	available	_	_	_	_	-1	_	_	_
+13	.	_	_	_	_	-1	_	_	_
+
+# http://www.wikihow.com/Make-Spaghetti-Casserole
+1	Your	_	_	_	_	-1	_	_	_
+2	browser	_	_	_	_	-1	_	_	_
+3	does	_	_	_	_	-1	_	_	_
+4	not	_	_	_	_	-1	_	_	_
+5	currently	_	_	_	_	-1	_	_	_
+6	recognize	_	_	_	_	-1	_	_	_
+7	any	_	_	_	_	-1	_	_	_
+8	of	_	_	_	_	-1	_	_	_
+9	the	_	_	_	_	-1	_	_	_
+10	video	_	_	_	_	-1	_	_	_
+11	formats	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+12	available	_	_	_	_	-1	_	_	_
+13	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Allan_Sharpe
 1	Whilst	_	_	_	_	-1	_	_	_
 2	teaching	_	_	_	_	-1	_	_	_
@@ -17380,6 +17598,34 @@
 23	three	_	_	_	_	-1	_	_	_
 24	stages	_	_	_	_	-1	_	_	_
 25	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign_University_Library
+1	These	_	_	_	_	-1	_	_	_
+2	50-minute	_	_	_	_	-1	_	_	_
+3	sessions	_	_	_	_	-1	_	_	_
+4	cover	_	_	_	_	-1	_	_	_
+5	a	_	_	_	_	-1	_	_	_
+6	range	_	_	_	_	-1	_	_	_
+7	of	_	_	_	_	-1	_	_	_
+8	topics	_	_	_	_	-1	_	_	_
+9	,	_	_	_	_	-1	_	_	_
+10	all	_	_	_	_	-1	_	_	_
+11	of	_	_	_	_	-1	_	_	_
+12	which	_	_	_	_	-1	_	_	_
+13	help	_	_	_	_	-1	_	_	_
+14	affiliates	_	_	_	_	-1	_	_	_
+15	do	_	_	_	_	-1	_	_	_
+16	advanced	_	_	_	_	-1	_	_	_
+17	research	_	_	_	_	-1	_	_	_
+18	,	_	_	_	_	-1	_	_	_
+19	searching	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+20	,	_	_	_	_	-1	_	_	_
+21	evaluation	_	_	_	_	-1	_	_	_
+22	,	_	_	_	_	-1	_	_	_
+23	and	_	_	_	_	-1	_	_	_
+24	data	_	_	_	_	-1	_	_	_
+25	analysis	_	_	_	_	-1	_	_	_
+26	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign_University_Library
 1	These	_	_	_	_	-1	_	_	_
@@ -18365,6 +18611,22 @@
 13	cooking	_	_	_	_	-1	_	_	_
 14	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Cook-Tuna-Steak
+1	Turn	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	once	_	_	_	_	-1	_	_	_
+3	in	_	_	_	_	-1	_	_	_
+4	the	_	_	_	_	-1	_	_	_
+5	middle	_	_	_	_	-1	_	_	_
+6	of	_	_	_	_	-1	_	_	_
+7	the	_	_	_	_	-1	_	_	_
+8	cooking	_	_	_	_	-1	_	_	_
+9	process	_	_	_	_	-1	_	_	_
+10	to	_	_	_	_	-1	_	_	_
+11	promote	_	_	_	_	-1	_	_	_
+12	even	_	_	_	_	-1	_	_	_
+13	cooking	_	_	_	_	-1	_	_	_
+14	.	_	_	_	_	-1	_	_	_
+
 # http://www.wikihow.com/Write-a-Thank-You-for-a-Baby-Shower
 1	This	_	_	_	_	-1	_	_	_
 2	way	_	_	_	_	-1	_	_	_
@@ -18771,14 +19033,6 @@
 20	problems	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/2009%E2%80%9310_Milton_Keynes_Dons_F.C._season
-1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-2	:	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/2009%E2%80%9310_Milton_Keynes_Dons_F.C._season
-1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-2	:	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Make-Healthy-Mashed-Potatoes
 1	Many	_	_	_	_	-1	_	_	_
 2	sauce	_	_	_	_	-1	_	_	_
@@ -18973,6 +19227,26 @@
 17	comfortable	_	_	_	_	-1	_	_	_
 18	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Do-the-Perfect-Pose-in-Yoga
+1	Sit	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	on	_	_	_	_	-1	_	_	_
+3	a	_	_	_	_	-1	_	_	_
+4	folded	_	_	_	_	-1	_	_	_
+5	blanket	_	_	_	_	-1	_	_	_
+6	,	_	_	_	_	-1	_	_	_
+7	block	_	_	_	_	-1	_	_	_
+8	,	_	_	_	_	-1	_	_	_
+9	or	_	_	_	_	-1	_	_	_
+10	meditation	_	_	_	_	-1	_	_	_
+11	pillow	_	_	_	_	-1	_	_	_
+12	to	_	_	_	_	-1	_	_	_
+13	make	_	_	_	_	-1	_	_	_
+14	this	_	_	_	_	-1	_	_	_
+15	pose	_	_	_	_	-1	_	_	_
+16	more	_	_	_	_	-1	_	_	_
+17	comfortable	_	_	_	_	-1	_	_	_
+18	.	_	_	_	_	-1	_	_	_
+
 # http://www.wikihow.com/Bend-Wire
 1	For	_	_	_	_	-1	_	_	_
 2	example	_	_	_	_	-1	_	_	_
@@ -19051,6 +19325,34 @@
 22	put	_	_	_	_	-1	_	_	_
 23	away	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Imagine
+1	Demons	_	_	_	_	-1	_	_	_
+2	and	_	_	_	_	-1	_	_	_
+3	the	_	_	_	_	-1	_	_	_
+4	player	_	_	_	_	-1	_	_	_
+5	gain	_	_	_	_	-1	_	_	_
+6	experience	_	_	_	_	-1	_	_	_
+7	levels	_	_	_	_	-1	_	_	_
+8	separately	_	_	_	_	-1	_	_	_
+9	:	_	_	_	_	-1	_	_	_
+10	when	_	_	_	_	-1	_	_	_
+11	the	_	_	_	_	-1	_	_	_
+12	avatar	_	_	_	_	-1	_	_	_
+13	has	_	_	_	_	-1	_	_	_
+14	gained	_	_	_	_	-1	_	_	_
+15	a	_	_	_	_	-1	_	_	_
+16	level	_	_	_	_	-1	_	_	_
+17	,	_	_	_	_	-1	_	_	_
+18	they	_	_	_	_	-1	_	_	_
+19	can	_	_	_	_	-1	_	_	_
+20	assign	_	_	_	_	-1	_	_	_
+21	stat	_	_	_	_	-1	_	_	_
+22	points	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+23	to	_	_	_	_	-1	_	_	_
+24	various	_	_	_	_	-1	_	_	_
+25	attributes	_	_	_	_	-1	_	_	_
+26	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Imagine
 1	Demons	_	_	_	_	-1	_	_	_
@@ -19321,6 +19623,35 @@
 29	the	_	_	_	_	-1	_	_	_
 30	ground	_	_	_	_	-1	_	_	_
 31	.	_	_	_	_	-1	_	_	_
+
+# http://www.wikihow.com/Recognize-Signs-of-Anxiety-in-Dogs
+1	``	_	_	_	_	-1	_	_	_
+2	Flight	_	_	_	_	-1	_	_	_
+3	''	_	_	_	_	-1	_	_	_
+4	responses	_	_	_	_	-1	_	_	_
+5	in	_	_	_	_	-1	_	_	_
+6	nervous	_	_	_	_	-1	_	_	_
+7	dogs	_	_	_	_	-1	_	_	_
+8	can	_	_	_	_	-1	_	_	_
+9	include	_	_	_	_	-1	_	_	_
+10	bolting	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+11	,	_	_	_	_	-1	_	_	_
+12	hiding	_	_	_	_	-1	_	_	_
+13	,	_	_	_	_	-1	_	_	_
+14	digging	_	_	_	_	-1	_	_	_
+15	,	_	_	_	_	-1	_	_	_
+16	scratching	_	_	_	_	-1	_	_	_
+17	,	_	_	_	_	-1	_	_	_
+18	fleeing	_	_	_	_	-1	_	_	_
+19	and	_	_	_	_	-1	_	_	_
+20	pawing	_	_	_	_	-1	_	_	_
+21	(	_	_	_	_	-1	_	_	_
+22	such	_	_	_	_	-1	_	_	_
+23	as	_	_	_	_	-1	_	_	_
+24	at	_	_	_	_	-1	_	_	_
+25	doors	_	_	_	_	-1	_	_	_
+26	)	_	_	_	_	-1	_	_	_
+27	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Recognize-Signs-of-Anxiety-in-Dogs
 1	``	_	_	_	_	-1	_	_	_
@@ -20639,6 +20970,20 @@
 11	dress	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Wear-a-Denim-Dress
+1	A	_	_	_	_	-1	_	_	_
+2	tweed	_	_	_	_	-1	_	_	_
+3	or	_	_	_	_	-1	_	_	_
+4	corduroy	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+5	jacket	_	_	_	_	-1	_	_	_
+6	layers	_	_	_	_	-1	_	_	_
+7	well	_	_	_	_	-1	_	_	_
+8	over	_	_	_	_	-1	_	_	_
+9	a	_	_	_	_	-1	_	_	_
+10	denim	_	_	_	_	-1	_	_	_
+11	dress	_	_	_	_	-1	_	_	_
+12	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Biker_Battleground_Phoenix
 1	The	_	_	_	_	-1	_	_	_
 2	Bagger-style	_	_	_	_	-1	_	_	_
@@ -21035,24 +21380,6 @@
 13	-	_	_	_	_	-1	_	_	_
 14	wracking	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Get-a-Guy-to-Want-to-Go-Out-with-You
-1	You	_	_	_	_	-1	_	_	_
-2	do	_	_	_	_	-1	_	_	_
-3	n't	_	_	_	_	-1	_	_	_
-4	have	_	_	_	_	-1	_	_	_
-5	to	_	_	_	_	-1	_	_	_
-6	play	_	_	_	_	-1	_	_	_
-7	extreme	_	_	_	_	-1	_	_	_
-8	sports	_	_	_	_	-1	_	_	_
-9	or	_	_	_	_	-1	_	_	_
-10	cheat	_	_	_	_	-1	_	_	_
-11	death	_	_	_	_	-1	_	_	_
-12	to	_	_	_	_	-1	_	_	_
-13	get	_	_	_	_	-1	_	_	_
-14	adrenaline	_	_	_	_	-1	_	_	_
-15	working	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-16	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Learning_society
 1	Rather	_	_	_	_	-1	_	_	_
@@ -21474,7 +21801,34 @@
 24	inexplicable	_	_	_	_	-1	_	_	_
 25	.	_	_	_	_	-1	_	_	_
 
-# The concept of <b><i>measuring</i></b> software size was first introduced by Maurice Halstead from Purdue University in 1975.
+# http://en.wikipedia.org/wiki/Politicz
+1	``	_	_	_	_	-1	_	_	_
+2	Flashing	_	_	_	_	-1	_	_	_
+3	Back	_	_	_	_	-1	_	_	_
+4	''	_	_	_	_	-1	_	_	_
+5	is	_	_	_	_	-1	_	_	_
+6	about	_	_	_	_	-1	_	_	_
+7	the	_	_	_	_	-1	_	_	_
+8	happy	_	_	_	_	-1	_	_	_
+9	moments	_	_	_	_	-1	_	_	_
+10	of	_	_	_	_	-1	_	_	_
+11	my	_	_	_	_	-1	_	_	_
+12	life	_	_	_	_	-1	_	_	_
+13	-	_	_	_	_	-1	_	_	_
+14	the	_	_	_	_	-1	_	_	_
+15	perfect	_	_	_	_	-1	_	_	_
+16	combinations	_	_	_	_	-1	_	_	_
+17	of	_	_	_	_	-1	_	_	_
+18	cold	_	_	_	_	-1	_	_	_
+19	truth	_	_	_	_	-1	_	_	_
+20	and	_	_	_	_	-1	_	_	_
+21	sleep	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+22	walking	_	_	_	_	-1	_	_	_
+23	...	_	_	_	_	-1	_	_	_
+24	inexplicable	_	_	_	_	-1	_	_	_
+25	.	_	_	_	_	-1	_	_	_
+
+# https://en.wikipedia.org/wiki/ABC_score
 1	The	_	_	_	_	-1	_	_	_
 2	concept	_	_	_	_	-1	_	_	_
 3	of	_	_	_	_	-1	_	_	_
@@ -21529,7 +21883,7 @@
 11	audience	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
-# ``<b><i>Manufacture</i></b> and use of dairy protein fractions''.
+# Search Ads Example
 1	``	_	_	_	_	-1	_	_	_
 2	Manufacture	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 3	and	_	_	_	_	-1	_	_	_
@@ -21639,22 +21993,6 @@
 8	,	_	_	_	_	-1	_	_	_
 9	trekking	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 10	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/42nd_Infantry_Regiment_(France)
-1	Click	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	(	_	_	_	_	-1	_	_	_
-3	show	_	_	_	_	-1	_	_	_
-4	)	_	_	_	_	-1	_	_	_
-5	on	_	_	_	_	-1	_	_	_
-6	the	_	_	_	_	-1	_	_	_
-7	right	_	_	_	_	-1	_	_	_
-8	to	_	_	_	_	-1	_	_	_
-9	read	_	_	_	_	-1	_	_	_
-10	important	_	_	_	_	-1	_	_	_
-11	instructions	_	_	_	_	-1	_	_	_
-12	before	_	_	_	_	-1	_	_	_
-13	translating	_	_	_	_	-1	_	_	_
-14	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Deal-With-a-Controlling-Mother
 1	For	_	_	_	_	-1	_	_	_
@@ -22036,6 +22374,26 @@
 17	asks	_	_	_	_	-1	_	_	_
 18	:	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Deglaze-a-Pan
+1	On	_	_	_	_	-1	_	_	_
+2	How	_	_	_	_	-1	_	_	_
+3	to	_	_	_	_	-1	_	_	_
+4	Track	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+5	Accounts	_	_	_	_	-1	_	_	_
+6	Receivable	_	_	_	_	-1	_	_	_
+7	in	_	_	_	_	-1	_	_	_
+8	Quickbooks	_	_	_	_	-1	_	_	_
+9	when	_	_	_	_	-1	_	_	_
+10	Working	_	_	_	_	-1	_	_	_
+11	with	_	_	_	_	-1	_	_	_
+12	a	_	_	_	_	-1	_	_	_
+13	Factor	_	_	_	_	-1	_	_	_
+14	,	_	_	_	_	-1	_	_	_
+15	a	_	_	_	_	-1	_	_	_
+16	reader	_	_	_	_	-1	_	_	_
+17	asks	_	_	_	_	-1	_	_	_
+18	:	_	_	_	_	-1	_	_	_
+
 # http://www.wikihow.com/Survive-a-College-Exchange-Between-the-US-and-Australia
 1	Video	_	_	_	_	-1	_	_	_
 2	chat	_	_	_	_	-1	_	_	_
@@ -22288,19 +22646,6 @@
 20	Hollywood	_	_	_	_	-1	_	_	_
 21	.	_	_	_	_	-1	_	_	_
 22	''	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Make-a-Clown-Cake
-1	On	_	_	_	_	-1	_	_	_
-2	How	_	_	_	_	-1	_	_	_
-3	to	_	_	_	_	-1	_	_	_
-4	Watch	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-5	ESPN	_	_	_	_	-1	_	_	_
-6	Online	_	_	_	_	-1	_	_	_
-7	,	_	_	_	_	-1	_	_	_
-8	a	_	_	_	_	-1	_	_	_
-9	reader	_	_	_	_	-1	_	_	_
-10	asks	_	_	_	_	-1	_	_	_
-11	:	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Maintain-a-Clean-Home
 1	If	_	_	_	_	-1	_	_	_
@@ -23037,7 +23382,7 @@
 22	face	_	_	_	_	-1	_	_	_
 23	.	_	_	_	_	-1	_	_	_
 
-# <b><i>Win</i></b> or lose, I wanted to play it in Yankee Stadium.
+# http://en.wikipedia.org/wiki/Jack_McKeon?oldid=0
 1	Win	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	or	_	_	_	_	-1	_	_	_
 3	lose	_	_	_	_	-1	_	_	_
@@ -23219,7 +23564,7 @@
 15	weekend	_	_	_	_	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
 
-# SCI can be used to build systems with different types of switching topologies from centralized to fully distributed <b><i>switching</i></b>.
+# http://en.wikipedia.org/wiki/Scalable_Coherent_Interface
 1	SCI	_	_	_	_	-1	_	_	_
 2	can	_	_	_	_	-1	_	_	_
 3	be	_	_	_	_	-1	_	_	_
@@ -24127,7 +24472,7 @@
 7	planform	_	_	_	_	-1	_	_	_
 8	.	_	_	_	_	-1	_	_	_
 
-# <b><i>Dancing</i></b>, especially ballet, are very strenuous on the body.
+# https://en.wikipedia.org/wiki/Dance_and_health
 1	Dancing	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	,	_	_	_	_	-1	_	_	_
 3	especially	_	_	_	_	-1	_	_	_
@@ -24449,31 +24794,6 @@
 28	comfortably	_	_	_	_	-1	_	_	_
 29	.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Distract-Yourself-from-Cutting
-1	Exercising	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	can	_	_	_	_	-1	_	_	_
-3	also	_	_	_	_	-1	_	_	_
-4	help	_	_	_	_	-1	_	_	_
-5	to	_	_	_	_	-1	_	_	_
-6	release	_	_	_	_	-1	_	_	_
-7	stress	_	_	_	_	-1	_	_	_
-8	,	_	_	_	_	-1	_	_	_
-9	anxiety	_	_	_	_	-1	_	_	_
-10	,	_	_	_	_	-1	_	_	_
-11	anger	_	_	_	_	-1	_	_	_
-12	,	_	_	_	_	-1	_	_	_
-13	and	_	_	_	_	-1	_	_	_
-14	other	_	_	_	_	-1	_	_	_
-15	emotions	_	_	_	_	-1	_	_	_
-16	you	_	_	_	_	-1	_	_	_
-17	usually	_	_	_	_	-1	_	_	_
-18	use	_	_	_	_	-1	_	_	_
-19	cutting	_	_	_	_	-1	_	_	_
-20	to	_	_	_	_	-1	_	_	_
-21	help	_	_	_	_	-1	_	_	_
-22	with	_	_	_	_	-1	_	_	_
-23	.	_	_	_	_	-1	_	_	_
-
 # http://en.wikipedia.org/wiki/Bernard_Tompkins
 1	The	_	_	_	_	-1	_	_	_
 2	findings	_	_	_	_	-1	_	_	_
@@ -24616,7 +24936,7 @@
 10	modifications	_	_	_	_	-1	_	_	_
 11	.	_	_	_	_	-1	_	_	_
 
-# The lottery bill will sunset after six years, at which <b><i>point</i></b> it would need to be reauthorized to continue.
+# http://en.wikipedia.org/wiki/Wyoming_Lottery?previous=yes
 1	The	_	_	_	_	-1	_	_	_
 2	lottery	_	_	_	_	-1	_	_	_
 3	bill	_	_	_	_	-1	_	_	_
@@ -24944,7 +25264,7 @@
 26	situation	_	_	_	_	-1	_	_	_
 27	.	_	_	_	_	-1	_	_	_
 
-# <b><i>Use</i></b> CLS command to clear the screen regularly.
+# Search Ads Example
 1	Use	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	CLS	_	_	_	_	-1	_	_	_
 3	command	_	_	_	_	-1	_	_	_
@@ -25351,6 +25671,32 @@
 23	lobbies	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
 
+# http://en.wikipedia.org/wiki/Atmospheric_theatre
+1	The	_	_	_	_	-1	_	_	_
+2	renovation	_	_	_	_	-1	_	_	_
+3	cost	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+4	just	_	_	_	_	-1	_	_	_
+5	over	_	_	_	_	-1	_	_	_
+6	$	_	_	_	_	-1	_	_	_
+7	19	_	_	_	_	-1	_	_	_
+8	million	_	_	_	_	-1	_	_	_
+9	,	_	_	_	_	-1	_	_	_
+10	which	_	_	_	_	-1	_	_	_
+11	included	_	_	_	_	-1	_	_	_
+12	additional	_	_	_	_	-1	_	_	_
+13	restroom	_	_	_	_	-1	_	_	_
+14	facilities	_	_	_	_	-1	_	_	_
+15	,	_	_	_	_	-1	_	_	_
+16	new	_	_	_	_	-1	_	_	_
+17	concession	_	_	_	_	-1	_	_	_
+18	stands	_	_	_	_	-1	_	_	_
+19	and	_	_	_	_	-1	_	_	_
+20	expansion	_	_	_	_	-1	_	_	_
+21	of	_	_	_	_	-1	_	_	_
+22	the	_	_	_	_	-1	_	_	_
+23	lobbies	_	_	_	_	-1	_	_	_
+24	.	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Durand_de_la_Penne-class_destroyer
 1	Four	_	_	_	_	-1	_	_	_
 2	RTN-30	_	_	_	_	-1	_	_	_
@@ -25402,36 +25748,6 @@
 20	your	_	_	_	_	-1	_	_	_
 21	name	_	_	_	_	-1	_	_	_
 22	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/Iris_wattii
-1	Like	_	_	_	_	-1	_	_	_
-2	many	_	_	_	_	-1	_	_	_
-3	other	_	_	_	_	-1	_	_	_
-4	irises	_	_	_	_	-1	_	_	_
-5	,	_	_	_	_	-1	_	_	_
-6	most	_	_	_	_	-1	_	_	_
-7	parts	_	_	_	_	-1	_	_	_
-8	of	_	_	_	_	-1	_	_	_
-9	the	_	_	_	_	-1	_	_	_
-10	plant	_	_	_	_	-1	_	_	_
-11	are	_	_	_	_	-1	_	_	_
-12	poisonous	_	_	_	_	-1	_	_	_
-13	(	_	_	_	_	-1	_	_	_
-14	rhizome	_	_	_	_	-1	_	_	_
-15	and	_	_	_	_	-1	_	_	_
-16	leaves	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-17	)	_	_	_	_	-1	_	_	_
-18	,	_	_	_	_	-1	_	_	_
-19	if	_	_	_	_	-1	_	_	_
-20	mistakenly	_	_	_	_	-1	_	_	_
-21	ingested	_	_	_	_	-1	_	_	_
-22	can	_	_	_	_	-1	_	_	_
-23	cause	_	_	_	_	-1	_	_	_
-24	stomach	_	_	_	_	-1	_	_	_
-25	pains	_	_	_	_	-1	_	_	_
-26	and	_	_	_	_	-1	_	_	_
-27	vomiting	_	_	_	_	-1	_	_	_
-28	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/2010%E2%80%9311_NFL_playoffs
 1	Rashard	_	_	_	_	-1	_	_	_
@@ -25726,21 +26042,6 @@
 19	project	_	_	_	_	-1	_	_	_
 20	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Adaptive_replacement_cache
-1	Cache	_	_	_	_	-1	_	_	_
-2	hits	_	_	_	_	-1	_	_	_
-3	move	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-4	to	_	_	_	_	-1	_	_	_
-5	the	_	_	_	_	-1	_	_	_
-6	top	_	_	_	_	-1	_	_	_
-7	,	_	_	_	_	-1	_	_	_
-8	pushing	_	_	_	_	-1	_	_	_
-9	all	_	_	_	_	-1	_	_	_
-10	other	_	_	_	_	-1	_	_	_
-11	entries	_	_	_	_	-1	_	_	_
-12	down	_	_	_	_	-1	_	_	_
-13	.	_	_	_	_	-1	_	_	_
-
 # http://en.wikipedia.org/wiki/Steve_Elliott_(footballer,_born_1978)
 1	He	_	_	_	_	-1	_	_	_
 2	continued	_	_	_	_	-1	_	_	_
@@ -25987,7 +26288,7 @@
 19	)	_	_	_	_	-1	_	_	_
 20	.	_	_	_	_	-1	_	_	_
 
-# Participation in the Swatch Major Series Beach Volleyball tournament counts as Olympic qualification tournaments and also earns athletes FIVB World Ranking <b><i>points</i></b>.
+# https://en.wikipedia.org/wiki/Beach_Volleyball_Major_Series
 1	Participation	_	_	_	_	-1	_	_	_
 2	in	_	_	_	_	-1	_	_	_
 3	the	_	_	_	_	-1	_	_	_
@@ -26359,33 +26660,6 @@
 5	Transport	_	_	_	_	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Politicz
-1	``	_	_	_	_	-1	_	_	_
-2	Flashing	_	_	_	_	-1	_	_	_
-3	Back	_	_	_	_	-1	_	_	_
-4	''	_	_	_	_	-1	_	_	_
-5	is	_	_	_	_	-1	_	_	_
-6	about	_	_	_	_	-1	_	_	_
-7	the	_	_	_	_	-1	_	_	_
-8	happy	_	_	_	_	-1	_	_	_
-9	moments	_	_	_	_	-1	_	_	_
-10	of	_	_	_	_	-1	_	_	_
-11	my	_	_	_	_	-1	_	_	_
-12	life	_	_	_	_	-1	_	_	_
-13	-	_	_	_	_	-1	_	_	_
-14	the	_	_	_	_	-1	_	_	_
-15	perfect	_	_	_	_	-1	_	_	_
-16	combinations	_	_	_	_	-1	_	_	_
-17	of	_	_	_	_	-1	_	_	_
-18	cold	_	_	_	_	-1	_	_	_
-19	truth	_	_	_	_	-1	_	_	_
-20	and	_	_	_	_	-1	_	_	_
-21	sleep	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-22	walking	_	_	_	_	-1	_	_	_
-23	...	_	_	_	_	-1	_	_	_
-24	inexplicable	_	_	_	_	-1	_	_	_
-25	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Defend-Against-Cybercrime-on-Social-Networks
 1	Find	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	sites	_	_	_	_	-1	_	_	_
@@ -26556,34 +26830,6 @@
 14	and	_	_	_	_	-1	_	_	_
 15	escape	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Imagine
-1	Demons	_	_	_	_	-1	_	_	_
-2	and	_	_	_	_	-1	_	_	_
-3	the	_	_	_	_	-1	_	_	_
-4	player	_	_	_	_	-1	_	_	_
-5	gain	_	_	_	_	-1	_	_	_
-6	experience	_	_	_	_	-1	_	_	_
-7	levels	_	_	_	_	-1	_	_	_
-8	separately	_	_	_	_	-1	_	_	_
-9	:	_	_	_	_	-1	_	_	_
-10	when	_	_	_	_	-1	_	_	_
-11	the	_	_	_	_	-1	_	_	_
-12	avatar	_	_	_	_	-1	_	_	_
-13	has	_	_	_	_	-1	_	_	_
-14	gained	_	_	_	_	-1	_	_	_
-15	a	_	_	_	_	-1	_	_	_
-16	level	_	_	_	_	-1	_	_	_
-17	,	_	_	_	_	-1	_	_	_
-18	they	_	_	_	_	-1	_	_	_
-19	can	_	_	_	_	-1	_	_	_
-20	assign	_	_	_	_	-1	_	_	_
-21	stat	_	_	_	_	-1	_	_	_
-22	points	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-23	to	_	_	_	_	-1	_	_	_
-24	various	_	_	_	_	-1	_	_	_
-25	attributes	_	_	_	_	-1	_	_	_
-26	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Post-on-Facebook-Via-Text
 1	Facebook	_	_	_	_	-1	_	_	_
@@ -28075,7 +28321,7 @@
 26	dish	_	_	_	_	-1	_	_	_
 27	.	_	_	_	_	-1	_	_	_
 
-# In these art fair installations Dikeou critiques and probes the relationship of collecting, dealing, and <b><i>viewing</i></b> art in the commercial environment.
+# http://en.wikipedia.org/wiki/Devon_Dikeou
 1	In	_	_	_	_	-1	_	_	_
 2	these	_	_	_	_	-1	_	_	_
 3	art	_	_	_	_	-1	_	_	_
@@ -28924,10 +29170,6 @@
 9	music	_	_	_	_	-1	_	_	_
 10	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/2009%E2%80%9310_Milton_Keynes_Dons_F.C._season
-1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-2	:	_	_	_	_	-1	_	_	_
-
 # http://en.wikipedia.org/wiki/The_Evolution_of_Cooperation
 1	In	_	_	_	_	-1	_	_	_
 2	LNCS	_	_	_	_	-1	_	_	_
@@ -29113,7 +29355,7 @@
 14	courses	_	_	_	_	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Trakr
+# http://en.wikipedia.org/wiki/Eastbourne_Lifeboat_Station
 1	cue	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	.	_	_	_	_	-1	_	_	_
 
@@ -29126,7 +29368,7 @@
 6	''	_	_	_	_	-1	_	_	_
 7	.	_	_	_	_	-1	_	_	_
 
-# He discusses that he did not advertise or post his site anywhere; in fact, people starting talking about the website and the word of mouth <b><i>spread</i></b> gradually.
+# http://en.wikipedia.org/wiki/Chatroulette
 1	He	_	_	_	_	-1	_	_	_
 2	discusses	_	_	_	_	-1	_	_	_
 3	that	_	_	_	_	-1	_	_	_
@@ -29296,27 +29538,6 @@
 22	Base	_	_	_	_	-1	_	_	_
 23	FX	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/Move-to-front_transform
-1	Wheeler	_	_	_	_	-1	_	_	_
-2	transform	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-3	,	_	_	_	_	-1	_	_	_
-4	and	_	_	_	_	-1	_	_	_
-5	then	_	_	_	_	-1	_	_	_
-6	the	_	_	_	_	-1	_	_	_
-7	MTF	_	_	_	_	-1	_	_	_
-8	transform	_	_	_	_	-1	_	_	_
-9	,	_	_	_	_	-1	_	_	_
-10	we	_	_	_	_	-1	_	_	_
-11	get	_	_	_	_	-1	_	_	_
-12	a	_	_	_	_	-1	_	_	_
-13	message	_	_	_	_	-1	_	_	_
-14	with	_	_	_	_	-1	_	_	_
-15	6187	_	_	_	_	-1	_	_	_
-16	bits	_	_	_	_	-1	_	_	_
-17	of	_	_	_	_	-1	_	_	_
-18	entropy	_	_	_	_	-1	_	_	_
-19	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Folding_chair
 1	The	_	_	_	_	-1	_	_	_
@@ -29534,35 +29755,6 @@
 14	using	_	_	_	_	-1	_	_	_
 15	Mrs.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Recognize-Signs-of-Anxiety-in-Dogs
-1	``	_	_	_	_	-1	_	_	_
-2	Flight	_	_	_	_	-1	_	_	_
-3	''	_	_	_	_	-1	_	_	_
-4	responses	_	_	_	_	-1	_	_	_
-5	in	_	_	_	_	-1	_	_	_
-6	nervous	_	_	_	_	-1	_	_	_
-7	dogs	_	_	_	_	-1	_	_	_
-8	can	_	_	_	_	-1	_	_	_
-9	include	_	_	_	_	-1	_	_	_
-10	bolting	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-11	,	_	_	_	_	-1	_	_	_
-12	hiding	_	_	_	_	-1	_	_	_
-13	,	_	_	_	_	-1	_	_	_
-14	digging	_	_	_	_	-1	_	_	_
-15	,	_	_	_	_	-1	_	_	_
-16	scratching	_	_	_	_	-1	_	_	_
-17	,	_	_	_	_	-1	_	_	_
-18	fleeing	_	_	_	_	-1	_	_	_
-19	and	_	_	_	_	-1	_	_	_
-20	pawing	_	_	_	_	-1	_	_	_
-21	(	_	_	_	_	-1	_	_	_
-22	such	_	_	_	_	-1	_	_	_
-23	as	_	_	_	_	-1	_	_	_
-24	at	_	_	_	_	-1	_	_	_
-25	doors	_	_	_	_	-1	_	_	_
-26	)	_	_	_	_	-1	_	_	_
-27	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Recover-from-a-Tonsillectomy
 1	Bleeding	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	tonsils	_	_	_	_	-1	_	_	_
@@ -29703,7 +29895,7 @@
 26	together	_	_	_	_	-1	_	_	_
 27	.	_	_	_	_	-1	_	_	_
 
-# The criteria demands that the animals are free from hunger, discomfort, pain, and <b><i>fear</i></b>, and that the animals are able to express normal behaviors.
+# http://en.wikipedia.org/wiki/American_Humane_Association
 1	The	_	_	_	_	-1	_	_	_
 2	criteria	_	_	_	_	-1	_	_	_
 3	demands	_	_	_	_	-1	_	_	_
@@ -29751,6 +29943,31 @@
 14	signing	_	_	_	_	-1	_	_	_
 15	him	_	_	_	_	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
+
+# http://www.wikihow.com/Waterproof-Clothes
+1	Let	_	_	_	_	-1	_	_	_
+2	the	_	_	_	_	-1	_	_	_
+3	test	_	_	_	_	-1	_	_	_
+4	piece	_	_	_	_	-1	_	_	_
+5	air	_	_	_	_	-1	_	_	_
+6	dry	_	_	_	_	-1	_	_	_
+7	and	_	_	_	_	-1	_	_	_
+8	note	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+9	how	_	_	_	_	-1	_	_	_
+10	much	_	_	_	_	-1	_	_	_
+11	time	_	_	_	_	-1	_	_	_
+12	it	_	_	_	_	-1	_	_	_
+13	took	_	_	_	_	-1	_	_	_
+14	for	_	_	_	_	-1	_	_	_
+15	the	_	_	_	_	-1	_	_	_
+16	particular	_	_	_	_	-1	_	_	_
+17	smell	_	_	_	_	-1	_	_	_
+18	of	_	_	_	_	-1	_	_	_
+19	linseed	_	_	_	_	-1	_	_	_
+20	oil	_	_	_	_	-1	_	_	_
+21	to	_	_	_	_	-1	_	_	_
+22	evaporate	_	_	_	_	-1	_	_	_
+23	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Waterproof-Clothes
 1	Let	_	_	_	_	-1	_	_	_
@@ -30193,6 +30410,22 @@
 13	shooting	_	_	_	_	-1	_	_	_
 14	?	_	_	_	_	-1	_	_	_
 
+# http://www.wikihow.com/Be-the-Best-Player-on-Your-Basketball-Team
+1	How	_	_	_	_	-1	_	_	_
+2	do	_	_	_	_	-1	_	_	_
+3	I	_	_	_	_	-1	_	_	_
+4	learn	_	_	_	_	-1	_	_	_
+5	to	_	_	_	_	-1	_	_	_
+6	relax	_	_	_	_	-1	_	_	_
+7	and	_	_	_	_	-1	_	_	_
+8	have	_	_	_	_	-1	_	_	_
+9	proper	_	_	_	_	-1	_	_	_
+10	ball	_	_	_	_	-1	_	_	_
+11	release	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
+12	when	_	_	_	_	-1	_	_	_
+13	shooting	_	_	_	_	-1	_	_	_
+14	?	_	_	_	_	-1	_	_	_
+
 # http://en.wikipedia.org/wiki/Bellum_Entertainment_Group
 1	Animal	_	_	_	_	-1	_	_	_
 2	Atlas	_	_	_	_	-1	_	_	_
@@ -30222,7 +30455,7 @@
 26	thrive	_	_	_	_	-1	_	_	_
 27	.	_	_	_	_	-1	_	_	_
 
-# He often played on the half forward <b><i>flank</i></b> next Darrel Baldock.
+# https://en.wikipedia.org/wiki/Allen_Burns
 1	He	_	_	_	_	-1	_	_	_
 2	often	_	_	_	_	-1	_	_	_
 3	played	_	_	_	_	-1	_	_	_
@@ -31400,20 +31633,6 @@
 16	wardrobe	_	_	_	_	-1	_	_	_
 17	.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Wear-a-Denim-Dress
-1	A	_	_	_	_	-1	_	_	_
-2	tweed	_	_	_	_	-1	_	_	_
-3	or	_	_	_	_	-1	_	_	_
-4	corduroy	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-5	jacket	_	_	_	_	-1	_	_	_
-6	layers	_	_	_	_	-1	_	_	_
-7	well	_	_	_	_	-1	_	_	_
-8	over	_	_	_	_	-1	_	_	_
-9	a	_	_	_	_	-1	_	_	_
-10	denim	_	_	_	_	-1	_	_	_
-11	dress	_	_	_	_	-1	_	_	_
-12	.	_	_	_	_	-1	_	_	_
-
 # http://en.wikipedia.org/wiki/Character_(novel)
 1	``	_	_	_	_	-1	_	_	_
 2	Escape	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -31534,7 +31753,7 @@
 24	walkways	_	_	_	_	-1	_	_	_
 25	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Derek_Cowen
+# http://en.wikipedia.org/wiki/Cliff_Deacon
 1	Playing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	statistics	_	_	_	_	-1	_	_	_
 3	correct	_	_	_	_	-1	_	_	_
@@ -31543,6 +31762,17 @@
 6	end	_	_	_	_	-1	_	_	_
 7	of	_	_	_	_	-1	_	_	_
 8	1962	_	_	_	_	-1	_	_	_
+9	.	_	_	_	_	-1	_	_	_
+
+# http://en.wikipedia.org/wiki/Cliff_Deacon
+1	Playing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+2	statistics	_	_	_	_	-1	_	_	_
+3	correct	_	_	_	_	-1	_	_	_
+4	to	_	_	_	_	-1	_	_	_
+5	the	_	_	_	_	-1	_	_	_
+6	end	_	_	_	_	-1	_	_	_
+7	of	_	_	_	_	-1	_	_	_
+8	1937	_	_	_	_	-1	_	_	_
 9	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Usability
@@ -32134,7 +32364,7 @@
 17	burpees	_	_	_	_	-1	_	_	_
 18	.	_	_	_	_	-1	_	_	_
 
-# Gabriel and Eugene <b><i>patch</i></b> up Glenn's leg using a few tea-leaves and hot candle wax.
+# Search Ads Example
 1	Gabriel	_	_	_	_	-1	_	_	_
 2	and	_	_	_	_	-1	_	_	_
 3	Eugene	_	_	_	_	-1	_	_	_
@@ -32940,21 +33170,6 @@
 14	)	_	_	_	_	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Make-Spaghetti-Casserole
-1	Your	_	_	_	_	-1	_	_	_
-2	browser	_	_	_	_	-1	_	_	_
-3	does	_	_	_	_	-1	_	_	_
-4	not	_	_	_	_	-1	_	_	_
-5	currently	_	_	_	_	-1	_	_	_
-6	recognize	_	_	_	_	-1	_	_	_
-7	any	_	_	_	_	-1	_	_	_
-8	of	_	_	_	_	-1	_	_	_
-9	the	_	_	_	_	-1	_	_	_
-10	video	_	_	_	_	-1	_	_	_
-11	formats	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-12	available	_	_	_	_	-1	_	_	_
-13	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Clean-Microfiber-Furniture
 1	If	_	_	_	_	-1	_	_	_
 2	your	_	_	_	_	-1	_	_	_
@@ -33252,31 +33467,6 @@
 22	and	_	_	_	_	-1	_	_	_
 23	more	_	_	_	_	-1	_	_	_
 24	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Waterproof-Clothes
-1	Let	_	_	_	_	-1	_	_	_
-2	the	_	_	_	_	-1	_	_	_
-3	test	_	_	_	_	-1	_	_	_
-4	piece	_	_	_	_	-1	_	_	_
-5	air	_	_	_	_	-1	_	_	_
-6	dry	_	_	_	_	-1	_	_	_
-7	and	_	_	_	_	-1	_	_	_
-8	note	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-9	how	_	_	_	_	-1	_	_	_
-10	much	_	_	_	_	-1	_	_	_
-11	time	_	_	_	_	-1	_	_	_
-12	it	_	_	_	_	-1	_	_	_
-13	took	_	_	_	_	-1	_	_	_
-14	for	_	_	_	_	-1	_	_	_
-15	the	_	_	_	_	-1	_	_	_
-16	particular	_	_	_	_	-1	_	_	_
-17	smell	_	_	_	_	-1	_	_	_
-18	of	_	_	_	_	-1	_	_	_
-19	linseed	_	_	_	_	-1	_	_	_
-20	oil	_	_	_	_	-1	_	_	_
-21	to	_	_	_	_	-1	_	_	_
-22	evaporate	_	_	_	_	-1	_	_	_
-23	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Become-an-Elementary-School-Teacher-in-Florida
 1	These	_	_	_	_	-1	_	_	_
@@ -34394,22 +34584,6 @@
 21	season	_	_	_	_	-1	_	_	_
 22	championship	_	_	_	_	-1	_	_	_
 23	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Cook-Tuna-Steak
-1	Turn	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	once	_	_	_	_	-1	_	_	_
-3	in	_	_	_	_	-1	_	_	_
-4	the	_	_	_	_	-1	_	_	_
-5	middle	_	_	_	_	-1	_	_	_
-6	of	_	_	_	_	-1	_	_	_
-7	the	_	_	_	_	-1	_	_	_
-8	cooking	_	_	_	_	-1	_	_	_
-9	process	_	_	_	_	-1	_	_	_
-10	to	_	_	_	_	-1	_	_	_
-11	promote	_	_	_	_	-1	_	_	_
-12	even	_	_	_	_	-1	_	_	_
-13	cooking	_	_	_	_	-1	_	_	_
-14	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/IBM_Remote_Supervisor_Adapter
 1	Log	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -35842,7 +36016,7 @@
 25	roof	_	_	_	_	-1	_	_	_
 26	.	_	_	_	_	-1	_	_	_
 
-# Goodman appeared on one studio <b><i>recording</i></b> ``Full Circle'' (1994), and the live album ``California Screamin''' (2000).
+# http://en.wikipedia.org/wiki/Jerry_Goodman
 1	Goodman	_	_	_	_	-1	_	_	_
 2	appeared	_	_	_	_	-1	_	_	_
 3	on	_	_	_	_	-1	_	_	_
@@ -35894,17 +36068,6 @@
 4	is	_	_	_	_	-1	_	_	_
 5	lock	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/Bill_Warne
-1	Playing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	statistics	_	_	_	_	-1	_	_	_
-3	correct	_	_	_	_	-1	_	_	_
-4	to	_	_	_	_	-1	_	_	_
-5	the	_	_	_	_	-1	_	_	_
-6	end	_	_	_	_	-1	_	_	_
-7	of	_	_	_	_	-1	_	_	_
-8	1937	_	_	_	_	-1	_	_	_
-9	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Minimize-the-Side-Effects-of-Chemotherapy
 1	One	_	_	_	_	-1	_	_	_
@@ -37446,26 +37609,6 @@
 16	locally	_	_	_	_	-1	_	_	_
 17	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Glossary_of_baseball_(W)
-1	A	_	_	_	_	-1	_	_	_
-2	pitcher	_	_	_	_	-1	_	_	_
-3	(	_	_	_	_	-1	_	_	_
-4	including	_	_	_	_	-1	_	_	_
-5	the	_	_	_	_	-1	_	_	_
-6	starter	_	_	_	_	-1	_	_	_
-7	)	_	_	_	_	-1	_	_	_
-8	need	_	_	_	_	-1	_	_	_
-9	face	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-10	only	_	_	_	_	-1	_	_	_
-11	one	_	_	_	_	-1	_	_	_
-12	batter	_	_	_	_	-1	_	_	_
-13	to	_	_	_	_	-1	_	_	_
-14	be	_	_	_	_	-1	_	_	_
-15	charged	_	_	_	_	-1	_	_	_
-16	with	_	_	_	_	-1	_	_	_
-17	an	_	_	_	_	-1	_	_	_
-18	L.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Clean-Yourself-in-the-Bath
 1	This	_	_	_	_	-1	_	_	_
 2	will	_	_	_	_	-1	_	_	_
@@ -37901,32 +38044,6 @@
 30	directions	_	_	_	_	-1	_	_	_
 31	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Atmospheric_theatre
-1	The	_	_	_	_	-1	_	_	_
-2	renovation	_	_	_	_	-1	_	_	_
-3	cost	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-4	just	_	_	_	_	-1	_	_	_
-5	over	_	_	_	_	-1	_	_	_
-6	$	_	_	_	_	-1	_	_	_
-7	19	_	_	_	_	-1	_	_	_
-8	million	_	_	_	_	-1	_	_	_
-9	,	_	_	_	_	-1	_	_	_
-10	which	_	_	_	_	-1	_	_	_
-11	included	_	_	_	_	-1	_	_	_
-12	additional	_	_	_	_	-1	_	_	_
-13	restroom	_	_	_	_	-1	_	_	_
-14	facilities	_	_	_	_	-1	_	_	_
-15	,	_	_	_	_	-1	_	_	_
-16	new	_	_	_	_	-1	_	_	_
-17	concession	_	_	_	_	-1	_	_	_
-18	stands	_	_	_	_	-1	_	_	_
-19	and	_	_	_	_	-1	_	_	_
-20	expansion	_	_	_	_	-1	_	_	_
-21	of	_	_	_	_	-1	_	_	_
-22	the	_	_	_	_	-1	_	_	_
-23	lobbies	_	_	_	_	-1	_	_	_
-24	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Encourage-a-Teen-to-Read
 1	Teaching	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	for	_	_	_	_	-1	_	_	_
@@ -38041,7 +38158,7 @@
 14	STOP	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 15	!	_	_	_	_	-1	_	_	_
 
-# But when <b><i>chaining</i></b> is used, only the server with the adapter installed supports the remote KVM function.
+# https://en.wikipedia.org/wiki/IBM_Remote_Supervisor_Adapter
 1	But	_	_	_	_	-1	_	_	_
 2	when	_	_	_	_	-1	_	_	_
 3	chaining	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -38092,26 +38209,6 @@
 17	European	_	_	_	_	-1	_	_	_
 18	countries	_	_	_	_	-1	_	_	_
 19	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Do-the-Perfect-Pose-in-Yoga
-1	Sit	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-2	on	_	_	_	_	-1	_	_	_
-3	a	_	_	_	_	-1	_	_	_
-4	folded	_	_	_	_	-1	_	_	_
-5	blanket	_	_	_	_	-1	_	_	_
-6	,	_	_	_	_	-1	_	_	_
-7	block	_	_	_	_	-1	_	_	_
-8	,	_	_	_	_	-1	_	_	_
-9	or	_	_	_	_	-1	_	_	_
-10	meditation	_	_	_	_	-1	_	_	_
-11	pillow	_	_	_	_	-1	_	_	_
-12	to	_	_	_	_	-1	_	_	_
-13	make	_	_	_	_	-1	_	_	_
-14	this	_	_	_	_	-1	_	_	_
-15	pose	_	_	_	_	-1	_	_	_
-16	more	_	_	_	_	-1	_	_	_
-17	comfortable	_	_	_	_	-1	_	_	_
-18	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/A_Tale_of_Two_Cities_(musical)
 1	However	_	_	_	_	-1	_	_	_
@@ -38940,7 +39037,7 @@
 16	publishers	_	_	_	_	-1	_	_	_
 17	.	_	_	_	_	-1	_	_	_
 
-# Consultants and Temps are those that <b><i>work</i></b> for clients.
+# https://en.wikipedia.org/wiki/Consultant
 1	Consultants	_	_	_	_	-1	_	_	_
 2	and	_	_	_	_	-1	_	_	_
 3	Temps	_	_	_	_	-1	_	_	_
@@ -38994,7 +39091,7 @@
 28	hate	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 29	.	_	_	_	_	-1	_	_	_
 
-# ``The emerging era of genomic data integration for analyzing splice isoform <b><i>function</i></b>.''.
+# http://en.wikipedia.org/wiki/RNA_splicing
 1	``	_	_	_	_	-1	_	_	_
 2	The	_	_	_	_	-1	_	_	_
 3	emerging	_	_	_	_	-1	_	_	_
@@ -39226,34 +39323,6 @@
 5	enemy	_	_	_	_	-1	_	_	_
 6	troops	_	_	_	_	-1	_	_	_
 7	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign_University_Library
-1	These	_	_	_	_	-1	_	_	_
-2	50-minute	_	_	_	_	-1	_	_	_
-3	sessions	_	_	_	_	-1	_	_	_
-4	cover	_	_	_	_	-1	_	_	_
-5	a	_	_	_	_	-1	_	_	_
-6	range	_	_	_	_	-1	_	_	_
-7	of	_	_	_	_	-1	_	_	_
-8	topics	_	_	_	_	-1	_	_	_
-9	,	_	_	_	_	-1	_	_	_
-10	all	_	_	_	_	-1	_	_	_
-11	of	_	_	_	_	-1	_	_	_
-12	which	_	_	_	_	-1	_	_	_
-13	help	_	_	_	_	-1	_	_	_
-14	affiliates	_	_	_	_	-1	_	_	_
-15	do	_	_	_	_	-1	_	_	_
-16	advanced	_	_	_	_	-1	_	_	_
-17	research	_	_	_	_	-1	_	_	_
-18	,	_	_	_	_	-1	_	_	_
-19	searching	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-20	,	_	_	_	_	-1	_	_	_
-21	evaluation	_	_	_	_	-1	_	_	_
-22	,	_	_	_	_	-1	_	_	_
-23	and	_	_	_	_	-1	_	_	_
-24	data	_	_	_	_	-1	_	_	_
-25	analysis	_	_	_	_	-1	_	_	_
-26	.	_	_	_	_	-1	_	_	_
 
 # http://www.wikihow.com/Reorganize-a-File-Cabinet
 1	On	_	_	_	_	-1	_	_	_
@@ -39726,7 +39795,7 @@
 27	dance	_	_	_	_	-1	_	_	_
 28	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/Twin_paradox
+# http://www.wikihow.com/Speak-Old-English
 1	Reading	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	:	_	_	_	_	-1	_	_	_
 
@@ -39840,22 +39909,6 @@
 15	shape	_	_	_	_	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Be-the-Best-Player-on-Your-Basketball-Team
-1	How	_	_	_	_	-1	_	_	_
-2	do	_	_	_	_	-1	_	_	_
-3	I	_	_	_	_	-1	_	_	_
-4	learn	_	_	_	_	-1	_	_	_
-5	to	_	_	_	_	-1	_	_	_
-6	relax	_	_	_	_	-1	_	_	_
-7	and	_	_	_	_	-1	_	_	_
-8	have	_	_	_	_	-1	_	_	_
-9	proper	_	_	_	_	-1	_	_	_
-10	ball	_	_	_	_	-1	_	_	_
-11	release	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-12	when	_	_	_	_	-1	_	_	_
-13	shooting	_	_	_	_	-1	_	_	_
-14	?	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Celebrate-Christmas-on-a-Budget
 1	An	_	_	_	_	-1	_	_	_
 2	artificial	_	_	_	_	-1	_	_	_
@@ -39886,21 +39939,6 @@
 27	which	_	_	_	_	-1	_	_	_
 28	tree	_	_	_	_	-1	_	_	_
 29	.	_	_	_	_	-1	_	_	_
-
-# http://www.wikihow.com/Make-Spaghetti-Casserole
-1	Your	_	_	_	_	-1	_	_	_
-2	browser	_	_	_	_	-1	_	_	_
-3	does	_	_	_	_	-1	_	_	_
-4	not	_	_	_	_	-1	_	_	_
-5	currently	_	_	_	_	-1	_	_	_
-6	recognize	_	_	_	_	-1	_	_	_
-7	any	_	_	_	_	-1	_	_	_
-8	of	_	_	_	_	-1	_	_	_
-9	the	_	_	_	_	-1	_	_	_
-10	video	_	_	_	_	-1	_	_	_
-11	formats	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-12	available	_	_	_	_	-1	_	_	_
-13	.	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/History_of_the_Detroit_Lions
 1	In	_	_	_	_	-1	_	_	_
@@ -40310,20 +40348,6 @@
 11	containers	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
-# http://en.wikipedia.org/wiki/2017_Oklahoma_State_Cowboys_football_team
-1	Mason	_	_	_	_	-1	_	_	_
-2	Rudolph	_	_	_	_	-1	_	_	_
-3	10-yard	_	_	_	_	-1	_	_	_
-4	run	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-5	(	_	_	_	_	-1	_	_	_
-6	Matt	_	_	_	_	-1	_	_	_
-7	Ammendola	_	_	_	_	-1	_	_	_
-8	kick	_	_	_	_	-1	_	_	_
-9	)	_	_	_	_	-1	_	_	_
-10	,	_	_	_	_	-1	_	_	_
-11	7:44	_	_	_	_	-1	_	_	_
-12	.	_	_	_	_	-1	_	_	_
-
 # http://www.wikihow.com/Do-Yoga-for-Heel-Pain
 1	The	_	_	_	_	-1	_	_	_
 2	chair	_	_	_	_	-1	_	_	_
@@ -40456,10 +40480,6 @@
 8	to	_	_	_	_	-1	_	_	_
 9	survive	_	_	_	_	-1	_	_	_
 10	.	_	_	_	_	-1	_	_	_
-
-# http://en.wikipedia.org/wiki/2009%E2%80%9310_Milton_Keynes_Dons_F.C._season
-1	Note	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
-2	:	_	_	_	_	-1	_	_	_
 
 # http://en.wikipedia.org/wiki/Interval_estimation
 1	Checking	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
@@ -41062,26 +41082,6 @@
 26	people	_	_	_	_	-1	_	_	_
 27	.	_	_	_	_	-1	_	_	_
 
-# http://www.wikihow.com/Deglaze-a-Pan
-1	On	_	_	_	_	-1	_	_	_
-2	How	_	_	_	_	-1	_	_	_
-3	to	_	_	_	_	-1	_	_	_
-4	Track	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-5	Accounts	_	_	_	_	-1	_	_	_
-6	Receivable	_	_	_	_	-1	_	_	_
-7	in	_	_	_	_	-1	_	_	_
-8	Quickbooks	_	_	_	_	-1	_	_	_
-9	when	_	_	_	_	-1	_	_	_
-10	Working	_	_	_	_	-1	_	_	_
-11	with	_	_	_	_	-1	_	_	_
-12	a	_	_	_	_	-1	_	_	_
-13	Factor	_	_	_	_	-1	_	_	_
-14	,	_	_	_	_	-1	_	_	_
-15	a	_	_	_	_	-1	_	_	_
-16	reader	_	_	_	_	-1	_	_	_
-17	asks	_	_	_	_	-1	_	_	_
-18	:	_	_	_	_	-1	_	_	_
-
 # Search Ads Example
 1	Learn	_	_	_	_	-1	_	_	_
 2	About	_	_	_	_	-1	_	_	_
@@ -41263,7 +41263,7 @@
 7	affordably	_	_	_	_	-1	_	_	_
 8	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Frank_Dobson_(sculptor)
 1	We	_	_	_	_	-1	_	_	_
 2	create	_	_	_	_	-1	_	_	_
 3	custom	_	_	_	_	-1	_	_	_
@@ -41347,6 +41347,15 @@
 4	We	_	_	_	_	-1	_	_	_
 5	Win	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
+
+# Search Ads Example
+1	No	_	_	_	_	-1	_	_	_
+2	Fees	_	_	_	_	-1	_	_	_
+3	,	_	_	_	_	-1	_	_	_
+4	Unless	_	_	_	_	-1	_	_	_
+5	We	_	_	_	_	-1	_	_	_
+6	Win	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+7	.	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
 1	Nearly	_	_	_	_	-1	_	_	_
@@ -41594,7 +41603,7 @@
 5	pricing	_	_	_	_	-1	_	_	_
 6	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Behavior_modification_facility
 1	Caring	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 2	,	_	_	_	_	-1	_	_	_
 3	Compassionate	_	_	_	_	-1	_	_	_
@@ -41879,7 +41888,7 @@
 16	Now	_	_	_	_	-1	_	_	_
 17	!	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/1966_Allan_Cup
 1	Our	_	_	_	_	-1	_	_	_
 2	Folding	_	_	_	_	-1	_	_	_
 3	Doors	_	_	_	_	-1	_	_	_
@@ -42186,7 +42195,7 @@
 15	life	_	_	_	_	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Lake_Ladoga
 1	Deal	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	with	_	_	_	_	-1	_	_	_
 3	Issues	_	_	_	_	-1	_	_	_
@@ -42530,6 +42539,20 @@
 12	.	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
+1	Convex	_	_	_	_	-1	_	_	_
+2	Safety	_	_	_	_	-1	_	_	_
+3	Mirrors	_	_	_	_	-1	_	_	_
+4	Can	_	_	_	_	-1	_	_	_
+5	Improve	_	_	_	_	-1	_	_	_
+6	Viewing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+7	Around	_	_	_	_	-1	_	_	_
+8	Hard	_	_	_	_	-1	_	_	_
+9	To	_	_	_	_	-1	_	_	_
+10	See	_	_	_	_	-1	_	_	_
+11	Areas	_	_	_	_	-1	_	_	_
+12	.	_	_	_	_	-1	_	_	_
+
+# Search Ads Example
 1	Over	_	_	_	_	-1	_	_	_
 2	40	_	_	_	_	-1	_	_	_
 3	years	_	_	_	_	-1	_	_	_
@@ -42772,7 +42795,7 @@
 8	Pro	_	_	_	_	-1	_	_	_
 9	Plan	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Lake_Ladoga
 1	3	_	_	_	_	-1	_	_	_
 2	Issues	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 3	For	_	_	_	_	-1	_	_	_
@@ -43359,15 +43382,6 @@
 16	.	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
-1	No	_	_	_	_	-1	_	_	_
-2	Fees	_	_	_	_	-1	_	_	_
-3	,	_	_	_	_	-1	_	_	_
-4	Unless	_	_	_	_	-1	_	_	_
-5	We	_	_	_	_	-1	_	_	_
-6	Win	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-7	.	_	_	_	_	-1	_	_	_
-
-# Search Ads Example
 1	Make	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	donation	_	_	_	_	-1	_	_	_
 3	to	_	_	_	_	-1	_	_	_
@@ -43684,20 +43698,6 @@
 14	latest	_	_	_	_	-1	_	_	_
 15	jobs	_	_	_	_	-1	_	_	_
 16	.	_	_	_	_	-1	_	_	_
-
-# Search Ads Example
-1	Convex	_	_	_	_	-1	_	_	_
-2	Safety	_	_	_	_	-1	_	_	_
-3	Mirrors	_	_	_	_	-1	_	_	_
-4	Can	_	_	_	_	-1	_	_	_
-5	Improve	_	_	_	_	-1	_	_	_
-6	Viewing	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-7	Around	_	_	_	_	-1	_	_	_
-8	Hard	_	_	_	_	-1	_	_	_
-9	To	_	_	_	_	-1	_	_	_
-10	See	_	_	_	_	-1	_	_	_
-11	Areas	_	_	_	_	-1	_	_	_
-12	.	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
 1	Visit	_	_	_	_	-1	_	_	_
@@ -44155,6 +44155,17 @@
 9	See	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
+1	No	_	_	_	_	-1	_	_	_
+2	Booking	_	_	_	_	-1	_	_	_
+3	Fee	_	_	_	_	-1	_	_	_
+4	,	_	_	_	_	-1	_	_	_
+5	You	_	_	_	_	-1	_	_	_
+6	Pay	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+7	What	_	_	_	_	-1	_	_	_
+8	You	_	_	_	_	-1	_	_	_
+9	See	_	_	_	_	-1	_	_	_
+
+# Search Ads Example
 1	Shop	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	Green	_	_	_	_	-1	_	_	_
 3	People	_	_	_	_	-1	_	_	_
@@ -44329,17 +44340,6 @@
 9	.	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
-1	No	_	_	_	_	-1	_	_	_
-2	Booking	_	_	_	_	-1	_	_	_
-3	Fee	_	_	_	_	-1	_	_	_
-4	,	_	_	_	_	-1	_	_	_
-5	You	_	_	_	_	-1	_	_	_
-6	Pay	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-7	What	_	_	_	_	-1	_	_	_
-8	You	_	_	_	_	-1	_	_	_
-9	See	_	_	_	_	-1	_	_	_
-
-# Search Ads Example
 1	We	_	_	_	_	-1	_	_	_
 2	Appeal	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 3	Disability	_	_	_	_	-1	_	_	_
@@ -44353,7 +44353,7 @@
 11	Deserve	_	_	_	_	-1	_	_	_
 12	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/1966_Allan_Cup
 1	Combine	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	internet	_	_	_	_	-1	_	_	_
 3	and	_	_	_	_	-1	_	_	_
@@ -44885,6 +44885,16 @@
 8	!	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
+1	We	_	_	_	_	-1	_	_	_
+2	Train	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
+3	-	_	_	_	_	-1	_	_	_
+4	Full	_	_	_	_	-1	_	_	_
+5	Benefits	_	_	_	_	-1	_	_	_
+6	-	_	_	_	_	-1	_	_	_
+7	Apply	_	_	_	_	-1	_	_	_
+8	!	_	_	_	_	-1	_	_	_
+
+# Search Ads Example
 1	Clear	_	_	_	_	-1	_	_	_
 2	fixed-rate	_	_	_	_	-1	_	_	_
 3	electricity	_	_	_	_	-1	_	_	_
@@ -45269,7 +45279,7 @@
 8	Positions	_	NON-VERB	NON-VERB	POS=NON-VERB|fPOS=NON-VERB	-1	_	_	_
 9	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Behavior_modification_facility
 1	Caring	_	_	_	_	-1	_	_	_
 2	,	_	_	_	_	-1	_	_	_
 3	Professional	_	_	_	_	-1	_	_	_
@@ -45378,7 +45388,7 @@
 13	money	_	_	_	_	-1	_	_	_
 14	.	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Frank_Dobson_(sculptor)
 1	Turn	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	invoices	_	_	_	_	-1	_	_	_
 3	into	_	_	_	_	-1	_	_	_
@@ -45656,7 +45666,7 @@
 6	Now	_	_	_	_	-1	_	_	_
 7	!	_	_	_	_	-1	_	_	_
 
-# Search Ads Example
+# http://en.wikipedia.org/wiki/Behavior_modification_facility
 1	Caring	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
 2	for	_	_	_	_	-1	_	_	_
 3	Kaneohe	_	_	_	_	-1	_	_	_
@@ -45680,16 +45690,6 @@
 13	and	_	_	_	_	-1	_	_	_
 14	auditing	_	_	_	_	-1	_	_	_
 15	.	_	_	_	_	-1	_	_	_
-
-# Search Ads Example
-1	We	_	_	_	_	-1	_	_	_
-2	Train	_	VERB	VERB	POS=VERB|fPOS=VERB	-1	_	_	_
-3	-	_	_	_	_	-1	_	_	_
-4	Full	_	_	_	_	-1	_	_	_
-5	Benefits	_	_	_	_	-1	_	_	_
-6	-	_	_	_	_	-1	_	_	_
-7	Apply	_	_	_	_	-1	_	_	_
-8	!	_	_	_	_	-1	_	_	_
 
 # Search Ads Example
 1	Find	_	_	_	_	-1	_	_	_
