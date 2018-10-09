@@ -28,7 +28,7 @@ An example of a training sentence is shown below:
 The number of examples per genra is shown below:
 
 Genra      | Train | Dev | Test|
-:---------:|-------|-----|-----|
+:--------- |-------:|-----:|-----:|
 Wikipedia  |8934   |1117 |2739 |
 Wikihow    |5978   |884  |2259 |
 Search Ads |8546   |366  |909  |
