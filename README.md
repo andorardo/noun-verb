@@ -43,7 +43,13 @@ Please note that the evaluation is done against labels in the XPOS column.
 
 ## New Results
 
-TODO
+We rerun experiments for all enhancemts reported in the [paper](README.md#citation) that uses the slightly filtered data. The new results are reported based on average of 10 runs:
+
+Model          | WSJ  | NV   | Homographs (Micro) | Homographs (Macro)
+:--------------|-----:|-----:|----------:|----------:|
+WSJ+Sliver     | 98.00±0.07 |86.4±0.5|96.04±0.22| 96.07±0.22 |
+WSJ+EMLo       |      |      |           |           |
+WSJ+Sliver+ELMo|      |      |           |           |
 
 ## License
 
